@@ -1,0 +1,41 @@
+---
+title: Redirected — see canonical case study
+section: case-studies
+summary: "This case study has been consolidated under its canonical slug: → sts-519-2017-spain ../sts-519-2017-spain/ canonical JSON + MD This file is preserved for inbound-link continuity. The canonical versio"
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/case-studies/sts-519-2017-tribunal-supremo-alienacion-parental"
+---
+# Redirected — see canonical case study
+
+This case study has been consolidated under its canonical slug:
+
+→ **[sts-519-2017-spain](../sts-519-2017-spain/)** (canonical JSON + MD)
+
+This file is preserved for inbound-link continuity. The canonical version carries the full v1.0 JSON schema sidecar and is the authoritative record.
+
+---
+
+*Canonical JSON: <https://raw.githubusercontent.com/AntiAlienate/knowledge/main/case-studies/sts-519-2017-spain.json>*  
+*Discovery: <https://raw.githubusercontent.com/AntiAlienate/knowledge/main/manifest.json>*
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+* [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+* [BAILII — UK case law](https://www.bailii.org/)
+* [CanLII — Canadian case law](https://www.canlii.org/)
+* [Justia — US case law](https://supreme.justia.com/)
+
+---
+
+## Related on antialienate.com
+
+* [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+* [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
+* [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+* [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+* [Keyser Advocaten Breaking Parental Alienation Taboo Belgium](https://www.antialienate.com/blog/keyser-advocaten-breaking-parental-alienation-taboo-belgium)
