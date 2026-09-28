@@ -1,0 +1,138 @@
+---
+title: Hungary (Magyarország)
+section: jurisdictions
+summary: "Jurisdiction code: HU · Legal system: civil-law Language s : hu Hungary is a civil-law unitary republic whose family-law framework was substantially modernised by the Polgári Törvénykönyv Civil Code, "
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/jurisdictions/hungary"
+---
+# Hungary (Magyarország)
+
+**Jurisdiction code:** `HU` · **Legal system:** civil-law  
+**Language(s):** hu
+
+Hungary is a civil-law unitary republic whose family-law framework was substantially modernised by the Polgári Törvénykönyv (Civil Code, Law V of 2013, Ptk) in force 15 March 2014. Parental authority (szülői felügyelet) is governed by Ptk Book Four (Family Law) §§ 4:146-4:201. The Kúria (Curia, Budapest) is the apex court for civil and criminal matters; the Alkotmánybíróság (Constitutional Court) operates a separate constitutional-review jurisdiction. Family-law matters proceed first-instance through Járásbíróság (District Courts) with appeals to Törvényszék (Regional Courts) and the Ítélőtábla (Court of Appeal). Psychology profession is regulated under the Magyar Pszichológiai Társaság (MPT) and the Magyar Pszichológusok Érdekvédelmi Egyesülete (MPEE), with Ministry-of-Human-Capacities licensing requirements. Hungary is silent on 'parental alienation' as a statutory label; courts operate substantively under the gyermek mindenek felett álló érdeke (best-interests-of-the-child) standard.
+
+## PA recognition status
+
+* **Statutory:** silent
+* **Apex court position:** no-apex-position
+* **Professional regulator position:** silent
+
+## Statutory framework
+
+* **Ptk Book Four (Law V of 2013) §§ 4:146-4:201** — Civil Code Book Four — Family Law (Parental authority) (2013) — <https://net.jogtar.hu/jogszabaly?docid=A1300005.TV>
+* Federal civil-code basis for parental authority. Law V of 2013 (Ptk) in force 15 March 2014 substantially modernised Hungarian private law. § 4:152 establishes joint exercise of parental authority as the default during marriage and cohabitation; § 4:164 governs determination of parental authority on separation with the welfare standard governing.
+* **Alaptörvény (Fundamental Law) Art. XVI** — Fundamental Law — Children's Rights (2011) — <https://net.jogtar.hu/jogszabaly?docid=A1100425.ATV>
+* Constitutional children's-rights provision under the Fundamental Law in force 1 January 2012. Art. XVI(1) establishes that every child has the right to the protection and care necessary for proper physical, mental and moral development.
+
+## Apex courts
+
+### Kúria (Curia / Supreme Court)
+
+<https://kuria-birosag.hu/>
+
+### Alkotmánybíróság (Constitutional Court)
+
+<https://alkotmanybirosag.hu/>
+
+## Professional regulators
+
+* **Magyar Pszichológiai Társaság (MPT)** — <https://mpt.hu/>
+* **Magyar Pszichológusok Érdekvédelmi Egyesülete (MPEE)** — <https://mpee.hu/>
+
+## Anonymisation convention
+
+Hungarian family-law decisions are anonymised per Kúria practice.
+
+## Key developments
+
+* **2011** — New Fundamental Law adopted 25 April 2011, in force 1 January 2012 — constitutional children's-rights provision in Art. XVI.
+* **2014** — Law V of 2013 (New Civil Code / Ptk) in force 15 March 2014 — substantial modernisation of Hungarian private law including family-law framework.
+
+## Structural findings
+
+* Hungary sits structurally within the CEE civil-law cluster alongside Poland + Czechia + Slovakia + Romania — modernised Civil Code 2014 + Constitutional Court individual-complaint jurisdiction + Constitutional children's-rights framework.
+* Constitutional Art. XVI children's-rights provision provides a constitutional-level overlay that operates as the welfare-paramountcy anchor — structurally similar to Ireland (Art. 42A) and South Africa (Const. s. 28(2)) within the corpus.
+* Psychology profession regulation operates less centrally than federal-statutory regimes elsewhere in the corpus — MPT + MPEE peak-body ethics + Ministry-of-Human-Capacities licensing rather than unified statutory professional-order regime.
+
+## See also
+
+* `jurisdiction:poland`
+* `jurisdiction:european-convention-on-human-rights`
+* `evidence:evaluator-quality-regulation-across-jurisdictions`
+* `evidence:childrens-rights-paramountcy-doctrine`
+
+## Sources
+
+1. **Kúria (Supreme Court of Hungary)** — <https://kuria-birosag.hu/> (Kúria) [hu,en]
+2. **Alkotmánybíróság (Constitutional Court)** — <https://alkotmanybirosag.hu/> (Alkotmánybíróság) [hu,en]
+3. **Nemzeti Jogszabálytár (National Legal Database)** — <https://njt.hu/> (Magyar Közlöny Lap- és Könyvkiadó) [hu]
+
+## Editorial notes
+
+* Hungary jurisdiction sidecar — CEE civil-law framework. Ptk Book Four (in force 2014) + Alaptörvény Art. XVI children's rights + Kúria apex + MPT/MPEE peak-body regulation.
+* PA-recognition: silent statutory + no-apex-position + silent regulator.
+* Joins CEE civil-law + constitutional-children's-rights clusters within the corpus.
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+## What this means if your child is being withheld from you in Hungary
+
+The operative framework is the [Polgári Törvénykönyv (Ptk. — Civil Code, Law V of 2013)](https://net.jogtar.hu/), particularly Book Fourth on family law (*Negyedik Könyv* — *Családjog*), arts. 4:152–4:189 on *szülői felügyelet* (parental responsibility) and arts. 4:178–4:181 on *kapcsolattartás* (contact). The principle is *gyermek érdeke* (interest of the child) per art. 4:2 (3).
+
+**The 2013 Civil Code reform.** The 2013 Ptk. consolidated Hungarian family law (previously in the 1952 Csjt. — Családjogi törvény) into the unified Civil Code. Key features: structured *szülői felügyelet* allocation, codified *kapcsolattartás* right and duty, explicit *kötelezettség* to facilitate the child's relationship with the other parent (art. 4:185).
+
+**Procedural pathway — the Járásbíróság.** Family disputes go to the *járásbíróság* (district court) of the child's habitual residence. For divorce-related custody, the *törvényszék* (regional court) handles primary proceedings. Procedure runs under the [Polgári perrendtartás (Pp. — Code of Civil Procedure, Law CXXX of 2016)](https://net.jogtar.hu/) special family-procedure track. The *gyámhatóság* (Guardianship Authority — administrative agency) handles *kapcsolattartás* arrangements administratively and intervenes in cooperation with the court.
+
+**Statutory recognition of contact-obstruction.** [Ptk. art. 4:185](https://net.jogtar.hu/) explicitly requires both parents to refrain from any conduct that would impair the child's relationship with the other parent and to facilitate *kapcsolattartás*. Breach is grounds for modification of the *szülői felügyelet* allocation under art. 4:171 — courts have been willing to transfer *szülői felügyelet* in sustained-obstruction cases.
+
+**Contact enforcement.** Where a contact order is being ignored, the *gyámhatóság* can impose administrative *bírság* (escalating fines) under Ministerial Decree 149/1997. Court-administered enforcement under Pp. proceeds via *végrehajtás* (execution) including police-assisted handover. Criminal exposure under [Btk. § 211 — Kiskorú elhelyezésének megváltoztatása](https://net.jogtar.hu/) (changing the placement of a minor) is available where the obstruction reaches abduction threshold — punishable by imprisonment up to 3 years.
+
+**The PA-construct question.** The [Magyar Pszichológiai Társaság](https://www.mpt.hu/) has been methodologically cautious about the *Szülői Elidegenítés Szindróma* (PAS) label. Hungarian family-court practice has applied behaviour-based analysis (*kapcsolatszakadás* — contact rupture) under the *gyermek érdeke* framework. The [Kúria (Supreme Court)](https://kuria-birosag.hu/) has not endorsed PAS as a syndrome amenable to diagnostic testing.
+
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Hungary is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Ministry of Justice (Igazságügyi Minisztérium)](https://igazsagugyiminiszterium.kormany.hu/). Cross-border EU cases engage Brussels IIb. The [Pesti Központi Kerületi Bíróság](https://birosag.hu/) has exclusive first-instance jurisdiction for Hague return applications.
+
+**Get local counsel.** *Ügyvéd* (member of the [Magyar Ügyvédi Kamara](https://www.muk.hu/)) is recommended for any contested family-court matter. The Hungarian Bar Association maintains family-law specialist directories. *Jogi segítségnyújtás* (legal aid) is income-tested via the [Igazságügyi Hivatal](https://igazsagugyihivatal.gov.hu/).
+
+## FAQ — Parental alienation in Hungary (Magyarország)
+
+### Is parental alienation illegal in Hungary (Magyarország)?
+
+In Hungary (Magyarország) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Hungary (Magyarország)?
+
+The primary statutory basis in Hungary (Magyarország) is Ptk Book Four (Law V of 2013) §§ 4:146-4:201 — Civil Code Book Four — Family Law (Parental authority). Authoritative text: <https://net.jogtar.hu/jogszabaly?docid=A1300005.TV>.
+
+### What can a parent do if their child is being withheld from them in Hungary (Magyarország)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Hungary (Magyarország)'s best-interests-of-the-child framework (Ptk Book Four (Law V of 2013) §§ 4:146-4:201) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+* [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+* [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+* [UN Treaty Collection — international treaties](https://treaties.un.org/)
+* [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+* [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+* [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+---
+
+## Related on antialienate.com
+
+* [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+* [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+* [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+* [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+* [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
