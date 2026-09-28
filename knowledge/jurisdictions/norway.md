@@ -1,0 +1,140 @@
+---
+title: Norway (Norge)
+section: jurisdictions
+summary: "Jurisdiction code: NO · Legal system: civil-law Language s : nb, nn Norway is a Nordic civil-law unitary kingdom whose family-court framework operates under the Barnelova Children Act of 1981 Lov om b"
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/jurisdictions/norway"
+---
+# Norway (Norge)
+
+**Jurisdiction code:** `NO` · **Legal system:** civil-law  
+**Language(s):** nb, nn
+
+Norway is a Nordic civil-law unitary kingdom whose family-court framework operates under the Barnelova (Children Act) of 1981 (Lov om barn og foreldre). Parental responsibility (foreldreansvar), residence (fast bosted) and contact (samvær) are governed by Barnelova chs. 5-7. Joint parental responsibility is the statutory default for married and cohabiting parents. The Høyesterett (Supreme Court of Norway, Oslo) is the apex court for civil and criminal matters; family-law decisions reach Høyesterett via the Lagmannsrett (Court of Appeal) following first-instance Tingrett (District Court) determinations. Psychology profession is regulated under Statens helsetilsyn / Helsedirektoratet (Norwegian Directorate of Health) under Helsepersonelloven 1999 — psychologist (psykolog) is a statutorily protected title requiring autorisasjon issued by Helsedirektoratet. Norway is silent on 'parental alienation' as a statutory label; courts operate substantively under the barnets beste (best-interests-of-the-child) welfare standard.
+
+## PA recognition status
+
+* **Statutory:** silent
+* **Apex court position:** no-apex-position
+* **Professional regulator position:** silent
+
+## Statutory framework
+
+* **Barnelova ch. 5** — Foreldreansvar (Parental responsibility) (1981) — <https://lovdata.no/dokument/NL/lov/1981-04-08-7>
+* Statutory basis for parental responsibility. § 34 establishes joint parental responsibility as the default for married and cohabiting parents; § 35 governs sole parental responsibility cases for parents who did not live together. Central provisions for any PA-adjacent custody-modification analysis.
+* **Barnelova ch. 6-7** — Fast bosted og samvær (Residence and contact) (1981) — <https://lovdata.no/dokument/NL/lov/1981-04-08-7>
+* Statutory framework for residence and contact arrangements. § 36 governs fast bosted (residence); § 42-44 govern samvær (contact). § 48 establishes barnets beste as the decisive standard.
+* **Helsepersonelloven 1999 (Health Personnel Act)** — Lov om helsepersonell mv. (1999) — <https://lovdata.no/dokument/NL/lov/1999-07-02-64>
+* Federal statute regulating health personnel including psychologists. Statutorily protected title 'psykolog' requires autorisasjon issued by Helsedirektoratet. Statutory anchor for evaluator-quality in court-appointed psychological assessments.
+
+## Apex courts
+
+### Høyesterett (Supreme Court of Norway)
+
+<https://www.domstol.no/en/supremecourt/>
+
+## Professional regulators
+
+* **Helsedirektoratet (Norwegian Directorate of Health)** — <https://www.helsedirektoratet.no/>
+* **Norsk psykologforening (Norwegian Psychological Association)** — <https://www.psykologforeningen.no/>
+* **Statens helsetilsyn (Norwegian Board of Health Supervision)** — <https://www.helsetilsynet.no/>
+
+## Anonymisation convention
+
+Norwegian family-law decisions are anonymised per Høyesterett practice using initials. Published Høyesterett decisions on Lovdata strip identifying details. Sits within the European-civil-law initials cluster.
+
+## Key developments
+
+* **1981** — Children Act enacted 8 April 1981 — foundational federal statute for family law.
+* **1999** — Health Personnel Act enacted 2 July 1999, in force 1 January 2001; statutorily protected title 'psykolog' requiring Helsedirektoratet autorisasjon.
+* **2003** — [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) incorporated into Norwegian law via Menneskerettsloven (Human Rights Act) 1999 amendment effective 1 October 2003 — provides direct domestic-law standing for CRC provisions.
+
+## Structural findings
+
+* Norway sits structurally within the Nordic civil-law cluster alongside Sweden + Denmark + Finland + Iceland — Barnelova + Helsepersonelloven 1999 + UN CRC incorporated as domestic law. Joint parental responsibility statutory default for married/cohabiting parents.
+* Helsepersonelloven 1999 statutory-autorisasjon regime places Norway among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psychologists Law 1977 IL + OPP PT — Helsedirektoratet-issued autorisasjon as the statutory mechanism.
+* Norwegian family-court practice has engaged the PA-construct critically since the 2010s within women's-rights and DV-protective discourse — substantively aligned with the Nordic critique register documented across Sweden and Denmark.
+
+## See also
+
+* `jurisdiction:sweden`
+* `jurisdiction:european-convention-on-human-rights`
+* `evidence:evaluator-quality-regulation-across-jurisdictions`
+* `evidence:childrens-rights-paramountcy-doctrine`
+
+## Sources
+
+1. **Norges Høyesterett (Supreme Court of Norway)** — <https://www.domstol.no/en/supremecourt/> (Domstoladministrasjonen) [nb,nn,en]
+2. **Lovdata — Norwegian legal database** — <https://lovdata.no/> (Lovdata) [nb,nn,en]
+3. **Helsedirektoratet (Norwegian Directorate of Health)** — <https://www.helsedirektoratet.no/> (Helsedirektoratet) [nb,nn,en]
+4. **Norsk psykologforening** — <https://www.psykologforeningen.no/> (Norsk psykologforening) [nb,nn]
+
+## Editorial notes
+
+* Norway jurisdiction sidecar establishes the Norwegian Nordic civil-law framework within the corpus alongside Sweden. Barnelova 1981 + Helsepersonelloven 1999 + Helsedirektoratet + UN CRC incorporated as domestic law 2003.
+* PA-recognition: silent statutory + no-apex-position + silent regulator.
+* Joins Nordic + federal-statutory psychology regulator clusters within the corpus.
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+## What this means if your child is being withheld from you in Norway
+
+The operative framework is the [Lov om barn og foreldre (Barneloven, 1981)](https://lovdata.no/dokument/NL/lov/1981-04-08-7) — the Children Act — particularly Chapter 5 on *foreldreansvar, fast bosted og samvær* (parental responsibility, fixed residence, contact). The principle is *barnets beste* (child's best interests) per Barneloven § 48. Norway's default is *felles foreldreansvar* (joint parental responsibility) unless welfare considerations require otherwise per § 35.
+
+**Procedural pathway — the Tingrett.** Family disputes go to the *tingrett* (district court) of the child's *bosted*. **Mandatory mediation** (*mekling*) at the [Familievernkontoret](https://www.bufdir.no/familie/familievernet/) precedes contested litigation under [Barneloven § 51](https://lovdata.no/) — both parents must obtain a *meklingsattest* before issuing. Exemptions apply for *vold i nære relasjoner* (intimate-partner violence) and welfare emergencies.
+
+**The post-2025 framework.** The 2024-2025 Barneloven amendments (in force 2025) strengthened the requirements for handling cases involving *vold* and *seksuelle overgrep* allegations, introducing a *risikovurdering* (risk assessment) step before contact decisions are made. This affects both genuine-DV cases and alienation patterns that masquerade as DV claims — the structured risk-assessment process is designed to surface the truth.
+
+**Contact enforcement — Barneloven § 65.** Where a court-ordered *samvær* is being ignored, [Barneloven § 65](https://lovdata.no/) provides for *tvangsbot* (coercive fines, set as a daily amount payable to the State per missed visit). The 2018 amendment raised the per-day maximum significantly. Where *tvangsbot* is ineffective and the obstruction is sustained, *flytting av fast bosted* (transfer of fixed residence) becomes the court's available remedy.
+
+**The PA-construct question.** The [Norsk psykologforening](https://www.psykologforeningen.no/) has been cautious about the *Parental Alienation Syndrome* label. The dominant Norwegian forensic-psychology framing is *bortmanipulering* / *samværssabotasje* (contact-manipulation / contact-sabotage) treated as a behavioural pattern. *Sakkyndig* (court-appointed expert) reports follow the [Den rettsmedisinske kommisjon](https://www.rettsmedisin.no/) methodology — argue the conduct, not the syndrome.
+
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Norway is a Hague 1980 contracting state. As Norway is not an EU Member State, Brussels IIb does not directly apply — cross-border matters within the EEA use the [Lugano Convention](https://eur-lex.europa.eu/) for jurisdiction questions. The Central Authority operates through the [Justis- og beredskapsdepartementet](https://www.regjeringen.no/).
+
+**Criminal exposure.** [Straffeloven § 261 (omsorgsunndragelse)](https://lovdata.no/dokument/NL/lov/2005-05-20-28/) criminalises *omsorgsunndragelse* (withholding a minor from the person entitled to custody) — punishable by up to 2 years' imprisonment, raised to 6 years where the child is taken abroad. Serious systematic contact-obstruction can reach this threshold.
+
+**Get local counsel.** *Advokat* (member of *Den Norske Advokatforening*) is recommended for any contested family-court matter. The [Norwegian Bar Association](https://www.advokatforeningen.no/) maintains the family-law specialist directory. *Fri rettshjelp* (free legal aid, income-tested) and *rettshjelpsforsikring* cover most costs. *Familievernkontoret* provides free mediation.
+
+## FAQ — Parental alienation in Norway (Norge)
+
+### Is parental alienation illegal in Norway (Norge)?
+
+In Norway (Norge) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Norway (Norge)?
+
+The primary statutory basis in Norway (Norge) is Barnelova ch. 5 — Foreldreansvar (Parental responsibility). Authoritative text: <https://lovdata.no/dokument/NL/lov/1981-04-08-7>.
+
+### What can a parent do if their child is being withheld from them in Norway (Norge)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Norway (Norge)'s best-interests-of-the-child framework (Barnelova ch. 5) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+* [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+* [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
+
+**Topic baseline (independently verifiable):**
+
+* [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+* [UN Treaty Collection — international treaties](https://treaties.un.org/)
+* [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+* [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+* [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+---
+
+## Related on antialienate.com
+
+* [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+* [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+* [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+* [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+* [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
