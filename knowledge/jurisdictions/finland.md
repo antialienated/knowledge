@@ -1,0 +1,138 @@
+---
+title: Finland (Suomi / Finland)
+section: jurisdictions
+summary: "Jurisdiction code: FI · Legal system: civil-law Language s : fi, sv Finland is a Nordic civil-law unitary republic whose family-court framework operates under the Laki lapsen huollosta ja tapaamisoike"
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/jurisdictions/finland"
+---
+# Finland (Suomi / Finland)
+
+**Jurisdiction code:** `FI` · **Legal system:** civil-law  
+**Language(s):** fi, sv
+
+Finland is a Nordic civil-law unitary republic whose family-court framework operates under the Laki lapsen huollosta ja tapaamisoikeudesta (Act on Child Custody and Right of Access) 1983, substantially amended by Lain muutos 190/2019 in force 1 December 2019. Custody (huolto) is jointly held by default; the 2019 reform strengthened the focus on the child's right to maintain contact with both parents and introduced explicit provisions on supervised contact (valvotut tapaamiset). The Korkein oikeus (Supreme Court of Finland, Helsinki) is the apex court for civil matters; family-law decisions reach Korkein oikeus via the Hovioikeus (Court of Appeal) following first-instance Käräjäoikeus (District Court) determinations. Psychology profession is regulated under the Laki terveydenhuollon ammattihenkilöistä 1994 (Health Care Professionals Act) operated by Valvira (National Supervisory Authority for Welfare and Health). Finland is silent on 'parental alienation' as a statutory label; courts operate substantively under the lapsen etu (best-interests-of-the-child) welfare standard.
+
+## PA recognition status
+
+* **Statutory:** silent
+* **Apex court position:** no-apex-position
+* **Professional regulator position:** silent
+
+## Statutory framework
+
+* **Laki lapsen huollosta ja tapaamisoikeudesta 1983/361** — Act on Child Custody and Right of Access (1983) — <https://www.finlex.fi/fi/laki/ajantasa/1983/19830361>
+* Federal statute governing child custody (huolto) and right of access (tapaamisoikeus). § 1 codifies the lapsen etu welfare standard. § 6 establishes joint custody as the default. Substantially amended by Lain muutos 190/2019 in force 1 December 2019 to strengthen contact provisions and introduce supervised-contact framework.
+* **Laki terveydenhuollon ammattihenkilöistä 1994/559** — Health Care Professionals Act 1994 (1994) — <https://www.finlex.fi/fi/laki/ajantasa/1994/19940559>
+* Federal statute regulating health care professionals including psychologists. Statutorily protected title 'psykologi' requires registration with Valvira. Statutory anchor for evaluator-quality.
+
+## Apex courts
+
+### Korkein oikeus (Supreme Court of Finland)
+
+<https://www.korkeinoikeus.fi/>
+
+## Professional regulators
+
+* **Valvira (National Supervisory Authority for Welfare and Health)** — <https://www.valvira.fi/>
+* **Suomen Psykologiliitto (Finnish Psychological Association)** — <https://www.psyli.fi/>
+
+## Anonymisation convention
+
+Finnish family-law decisions are anonymised per Korkein oikeus practice using initials. Published decisions on Finlex.fi strip identifying details.
+
+## Key developments
+
+* **1983** — Child Custody and Right of Access Act 1983/361 enacted; joint-custody default.
+* **1994** — Health Care Professionals Act 1994/559 enacted; statutorily protected title 'psykologi' under Valvira.
+* **2019** — Substantial amendment to Laki lapsen huollosta ja tapaamisoikeudesta in force 1 December 2019 — strengthened contact provisions and introduced supervised-contact framework.
+
+## Structural findings
+
+* Finland sits structurally within the Nordic civil-law cluster alongside Sweden + Norway + Denmark + Iceland — joint-custody default + lapsen etu welfare standard + Valvira statutory psychology regulator.
+* Valvira statutory-registration regime places Finland among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psykolognævnet DK + Helsedirektoratet NO.
+* 2019 contact-provisions reform structurally similar to the Swedish 2006 vårdnadsreform — strengthening the close-and-good-contact framework while introducing safeguarding mechanisms (supervised-contact framework). Distinct from the Australian 2023 reform's safety-primary re-balancing.
+
+## See also
+
+* `jurisdiction:sweden`
+* `jurisdiction:norway`
+* `jurisdiction:denmark`
+* `jurisdiction:european-convention-on-human-rights`
+* `evidence:evaluator-quality-regulation-across-jurisdictions`
+* `evidence:childrens-rights-paramountcy-doctrine`
+
+## Sources
+
+1. **Korkein oikeus (Supreme Court of Finland)** — <https://www.korkeinoikeus.fi/> (Korkein oikeus) [fi,sv,en]
+2. **Finlex — Finnish legal database** — <https://www.finlex.fi/> (Edita Publishing) [fi,sv,en]
+3. **Valvira** — <https://www.valvira.fi/> (Valvira) [fi,sv,en]
+4. **Suomen Psykologiliitto** — <https://www.psyli.fi/> (Suomen Psykologiliitto) [fi,sv]
+
+## Editorial notes
+
+* Finland jurisdiction sidecar — Nordic civil-law framework. Laki lapsen huollosta 1983 + 2019 reform + Valvira statutory psychology regulator.
+* PA-recognition: silent statutory + no-apex-position + silent regulator.
+* Joins Nordic + federal-statutory psychology regulator clusters.
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+## What this means if your child is being withheld from you in Finland
+
+The operative framework is the [Laki lapsen huollosta ja tapaamisoikeudesta (Child Custody and Right of Access Act, 361/1983)](https://www.finlex.fi/fi/laki/ajantasa/1983/19830361), substantially amended by Law 190/2019 (in force 1 December 2019). The principle is *lapsen etu* (child's best interest) per LapsK § 4.
+
+**The 2019 amendment introduced *vuoroasuminen*.** Law 190/2019 explicitly recognised *vuoroasuminen* (alternating residence — equal-time joint physical custody) as a permissible arrangement, codifying what had been case-law practice. The amendment also strengthened the court's duty to address *vieraannuttaminen* (alienation) and the duty of both parents to facilitate the child's relationship with the other parent.
+
+**Procedural pathway — the Käräjäoikeus.** Family disputes go to the *käräjäoikeus* (district court) of the child's habitual residence. **Mandatory mediation** (*sovittelu*) at the *perheasioiden sovittelu* (family mediation service operated by the municipal social services) precedes contested adjudication in most matters under LapsK § 4. Welfare reports (*olosuhdeselvitys*) are commissioned from the *sosiaalitoimi* (municipal social services) and are highly influential in contested cases.
+
+**Statutory recognition of alienation.** [LapsK § 2](https://www.finlex.fi/) as amended in 2019 explicitly requires both parents to refrain from any action that would impair the child's relationship with the other parent, and § 10 lists *kykenemättömyys yhteistyöhön* (inability to cooperate) and *vieraannuttaminen* (alienating conduct) as factors the court must consider in custody allocation. This is structurally similar to Austria's *Wohlverhaltensgebot*.
+
+**Contact enforcement — Laki lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta (619/1996).** The enforcement statute authorises *uhkasakko* (coercive fine — set as a specified amount payable per missed visit) and *noutomääräys* (police-supported handover) in serious cases. The 2019 reform strengthened enforcement tools including faster timetabling. Sustained obstruction is grounds for modification of *huolto* (custody) to the targeted parent under LapsK § 12.
+
+**The PA-construct question.** The [Suomen Psykologiliitto](https://www.psyli.fi/) and the [Korkein oikeus](https://korkeinoikeus.fi/) (Supreme Court) have not endorsed *vanhempivieraannuttaminen-oireyhtymä* (PAS) as a diagnostic category. Finnish practice applies *vieraannuttaminen* as a behavioural pattern under LapsK §§ 2/10, not as a syndrome diagnosis.
+
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Finland is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Oikeusministeriö](https://oikeusministerio.fi/). Cross-border EU cases engage Brussels IIb.
+
+**Get local counsel.** *Asianajaja* (advocate, member of *Suomen Asianajajaliitto*) is recommended for any contested *huolto*/*tapaamisoikeus* matter. The [Finnish Bar Association](https://asianajajaliitto.fi/) maintains family-law specialist directories. *Oikeusapu* (legal aid) is income-tested. *Oikeusturvavakuutus* (legal-expense insurance) is widely included in home insurance and covers most costs.
+
+## FAQ — Parental alienation in Finland (Suomi / Finland)
+
+### Is parental alienation illegal in Finland (Suomi / Finland)?
+
+In Finland (Suomi / Finland) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Finland (Suomi / Finland)?
+
+The primary statutory basis in Finland (Suomi / Finland) is Laki lapsen huollosta ja tapaamisoikeudesta 1983/361 — Act on Child Custody and Right of Access. Authoritative text: <https://www.finlex.fi/fi/laki/ajantasa/1983/19830361>.
+
+### What can a parent do if their child is being withheld from them in Finland (Suomi / Finland)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Finland (Suomi / Finland)'s best-interests-of-the-child framework (Laki lapsen huollosta ja tapaamisoikeudesta 1983/361) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+* [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+* [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+* [UN Treaty Collection — international treaties](https://treaties.un.org/)
+* [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+* [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+* [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+---
+
+## Related on antialienate.com
+
+* [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+* [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+* [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+* [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+* [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
