@@ -1,0 +1,142 @@
+---
+title: Israel (ישראל / إسرائيل)
+section: jurisdictions
+summary: "Jurisdiction code: IL · Legal system: mixed Language s : he, ar Israel operates a mixed-legal-system framework combining common-law procedural inheritance, civil-law statutory layers, and religious-co"
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/jurisdictions/israel"
+---
+# Israel (ישראל / إسرائيل)
+
+**Jurisdiction code:** `IL` · **Legal system:** mixed  
+**Language(s):** he, ar
+
+Israel operates a mixed-legal-system framework combining common-law procedural inheritance, civil-law statutory layers, and religious-court personal-status jurisdiction. Family-court matters are governed by the Family Court Law 1995 (חוק בית המשפט לענייני משפחה) for civil matters and by the religious courts of the recognised communities (Jewish — Beit Din; Muslim — Sharia courts; Christian and Druze courts) for personal-status matters under their respective jurisdictions. Custody, residence and contact are governed by the Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) with the welfare-of-the-child standard codified in s. 17. The Supreme Court of Israel (בית המשפט העליון) is the apex court for civil matters and operates the High Court of Justice (בג"ץ / Bagatz) constitutional-review jurisdiction. Psychology profession is regulated under the Psychologists Law 1977 (חוק הפסיכולוגים) operated by the Ministry of Health Psychologists Registration Board. Israel is silent on 'parental alienation' as a statutory label; family-court practice operates substantively under the welfare standard. Israeli social-services and child-welfare literature has engaged the PA-construct critically since the 2010s.
+
+## PA recognition status
+
+* **Statutory:** silent
+* **Apex court position:** no-apex-position
+* **Professional regulator position:** silent
+
+## Statutory framework
+
+* **Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) s. 17** — Capacity and Guardianship Law — Welfare of the Child (1962) — <https://www.nevo.co.il/law_html/Law01/077_001.htm>
+* Federal statutory basis for custody and guardianship. § 17 codifies the welfare-of-the-child standard as the governing principle for parental decision-making and dispute resolution. Substantive hook for PA-adjacent custody-modification analysis.
+* **Family Court Law 1995 (חוק בית המשפט לענייני משפחה)** — Family Court Law 1995 (1995) — <https://www.nevo.co.il/law_html/Law01/255_001.htm>
+* Established the specialised civil Family Courts (Beit Mishpat L'inyenei Mishpacha) with jurisdiction over family-law matters including custody, contact, child-maintenance and property. Operates in parallel with the religious-court jurisdiction over personal-status matters.
+* **Psychologists Law 1977 (חוק הפסיכולוגים)** — Psychologists Law 1977 (1977) — <https://www.nevo.co.il/law_html/Law01/180_006.htm>
+* Federal statute establishing the Psychologists Registration Board under the Ministry of Health. Statutorily protected title 'psychologist' requires registration; statutory regulation of the specialisation tracks (clinical, educational, developmental, rehabilitation, occupational, medical, social).
+* **Basic Law: Human Dignity and Liberty 1992** — Basic Law: Human Dignity and Liberty (1992) — <https://www.nevo.co.il/law_html/Law01/184_001.htm>
+* Quasi-constitutional Basic Law cited in Supreme Court reasoning on welfare and parental rights. Operates as the constitutional anchor for proportionality analysis in family-court appellate review.
+
+## Apex courts
+
+### Supreme Court of Israel (בית המשפט העליון)
+
+<https://supreme.court.gov.il/>
+
+## Professional regulators
+
+* **Ministry of Health Psychologists Registration Board (משרד הבריאות — מועצת הפסיכולוגים)** — <https://www.health.gov.il/Subjects/mental_health/Pages/psychologists.aspx>
+* **Israel Psychological Association (הסתדרות הפסיכולוגים בישראל / IPA)** — <https://www.psychology.org.il/>
+
+## Anonymisation convention
+
+Israeli family-court decisions are anonymised per published practice using either initials, single Hebrew letters, or 'פלוני / פלונית' (Ploni/Plonit, equivalent to John Doe/Jane Doe). Published decisions on Nevo and on the Israeli judiciary's portal strip identifying details. Sits within the European/civil-law initials-pseudonym cluster.
+
+## Key developments
+
+* **1962** — Federal statutory framework for custody and guardianship; welfare-of-the-child standard codified.
+* **1977** — Federal statutory psychology profession regulation; statutory title protection and specialisation track regulation under Ministry of Health.
+* **1992** — Quasi-constitutional Basic Law enacted; subsequently used by Supreme Court for proportionality analysis.
+* **1995** — Specialised civil Family Courts established with jurisdiction over family-law matters parallel to religious-court personal-status jurisdiction.
+
+## Structural findings
+
+* Israel operates a structurally distinctive mixed-jurisdiction model within the corpus — common-law procedural inheritance + civil-law statutory layers + religious-court personal-status jurisdiction. The religious-court parallel jurisdiction (Beit Din for Jewish matters; Sharia courts for Muslim; Christian and Druze courts) means that some custody-adjacent matters route through religious-court adjudication rather than civil Family Courts.
+* Psychologists Law 1977 statutory regulation places Israel among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE — with seven distinct statutorily-recognised specialisation tracks.
+* Israeli family-court practice has engaged the PA-construct critically since the 2010s with social-services and child-welfare literature substantially aligned with the global critique camp. Hebrew-language social-work and women's-rights research from this period sits structurally alongside the European critique register documented elsewhere in the corpus.
+
+## See also
+
+* `jurisdiction:european-convention-on-human-rights`
+* `evidence:evaluator-quality-regulation-across-jurisdictions`
+* `evidence:childrens-rights-paramountcy-doctrine`
+
+## Sources
+
+1. **Supreme Court of Israel (Beit HaMishpat HaElyon)** — <https://supreme.court.gov.il/> (State of Israel Judiciary) [he,en]
+2. **Nevo — Israeli legal database** — <https://www.nevo.co.il/> (Nevo Legal Publishing) [he]
+3. **Ministry of Health — Psychologists** — <https://www.health.gov.il/Subjects/mental_health/Pages/psychologists.aspx> (Ministry of Health, State of Israel) [he,ar,en]
+4. **Israel Psychological Association (IPA)** — <https://www.psychology.org.il/> (IPA) [he]
+
+## Editorial notes
+
+* Israel jurisdiction sidecar establishes the Israeli mixed-jurisdiction framework within the corpus. Capacity and Guardianship Law 1962 + Family Court Law 1995 + Psychologists Law 1977 + religious-court parallel jurisdiction.
+* PA-recognition: silent statutory + no-apex-position + silent regulator. Hebrew-language social-services and child-welfare critique register operates substantively.
+* Joins federal-statutory psychology regulator cluster within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE.
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+## What this means if your child is being withheld from you in Israel
+
+Israel operates a **religion-pluralist personal-law architecture** unique among modern states: marriage and divorce are exclusively religious-court matters (Jewish, Muslim, Christian, Druze, Bahá'í courts), while custody, contact and maintenance can be heard in **either** the religious court that handled the divorce **or** the civil [Family Court (בית המשפט לענייני משפחה)](https://www.gov.il/) at the petitioner's election. This *concurrent jurisdiction* is the most distinctive feature of Israeli family law.
+
+**The operative civil framework.** The [Capacity and Guardianship Law 5722-1962 (חוק הכשרות המשפטית והאפוטרופסות)](https://www.nevo.co.il/) — particularly §§ 14–25 on parental responsibility — and the [Family Court Law 5755-1995](https://www.nevo.co.il/) provide the civil-court framework. The principle is *טובת הילד* (welfare of the child) per § 17 — codified as the *paramount consideration*.
+
+**Procedural pathway — the Family Court vs religious court.** The applicant's election binds for the duration of the proceedings (*sa'if 25* doctrine — the *race to file* is operationally critical). **Practical implication:** if the other parent files first in a religious court that applies a different welfare standard, jurisdiction is locked there. *Take procedural advice quickly.* The Family Court applies civil welfare-paramountcy; religious courts apply their respective religious-law standards.
+
+**The Tender Years Doctrine — abolished in 2023.** Until 2023, Capacity and Guardianship Law § 25 contained a maternal-preference presumption for children under 6 (the *Tender Years Doctrine* / *חזקת הגיל הרך*). **The 2023 amendment (Law 8230) abolished this presumption** for civil-court matters. Religious courts continue to apply their own doctrines (which vary). This is the most significant Israeli family-law reform since 1995.
+
+**The Yechidah la-Sayuah (welfare service).** The Family Court is supported by the *יחידת הסיוע ליד בית המשפט לענייני משפחה* (Welfare Service to the Family Court — equivalent of a CAFCASS unit). Welfare assessments by *עובדי הסעד* (social workers) carry significant weight. The court can also order *תסקיר* (welfare report) from the *רישוי משפטים* network.
+
+**Contact enforcement.** Court-ordered *הסדרי קשר* (contact arrangements) can be enforced via *הפרת צו בית משפט* (breach of court order) proceedings, *קנס* (fines), and ultimately *מאסר על תנאי* (suspended imprisonment). Criminal exposure under [Penal Law 5737-1977 § 373 (חטיפת קטין)](https://www.nevo.co.il/) (abduction of a minor) is available for serious systematic obstruction — punishable by up to 7 years' imprisonment.
+
+**The PA-construct question.** The [Israeli Psychological Association](https://www.psychology.org.il/) has been methodologically cautious. Israeli civil-court practice (Family Court and Supreme Court Family Appeals Division) has applied behaviour-based analysis under the *טובת הילד* framework. The 2022 [Schnit Committee Report](https://www.gov.il/) on family-law reform reinforced this approach.
+
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Israel is a Hague 1980 contracting state via the [Hague Convention Return of Abducted Children Law 5751-1991](https://www.nevo.co.il/). The Central Authority operates through the [Ministry of Justice — State Attorney's Office](https://www.gov.il/). Hague return proceedings go to the Family Court — known for expeditious handling.
+
+**Get local counsel.** *Orech Din* (advocate, member of the [Israel Bar Association](https://www.israelbar.org.il/)) with family-law practice. The IBA Family Law Committee maintains specialist directories. *Sayuah Mishpati* (legal aid) is means-tested via the Ministry of Justice. Religious-court matters require an advocate with that court's specific qualifications (e.g., *Toena rabbanit* for the Rabbinical Court).
+
+## FAQ — Parental alienation in Israel (ישראל / إسرائيل)
+
+### Is parental alienation illegal in Israel (ישראל / إسرائيل)?
+
+In Israel (ישראל / إسرائيل) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Israel (ישראל / إسرائيل)?
+
+The primary statutory basis in Israel (ישראל / إسرائيل) is Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) s. 17 — Capacity and Guardianship Law — Welfare of the Child. Authoritative text: <https://www.nevo.co.il/law_html/Law01/077_001.htm>.
+
+### What can a parent do if their child is being withheld from them in Israel (ישראל / إسرائيل)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Israel (ישראל / إسرائيل)'s best-interests-of-the-child framework (Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) s. 17) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+* [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+* [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+* [UN Treaty Collection — international treaties](https://treaties.un.org/)
+* [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+* [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+* [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+---
+
+## Related on antialienate.com
+
+* [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+* [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+* [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+* [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+* [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
