@@ -1,0 +1,158 @@
+---
+title: Switzerland (Schweiz / Suisse / Svizzera)
+section: jurisdictions
+summary: "Jurisdiction code: CH · Legal system: civil-law Language s : de, fr, it, rm Switzerland is a multilingual civil-law confederation whose family-court framework operates under the federal Zivilgesetzbuc"
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/jurisdictions/switzerland"
+---
+# Switzerland (Schweiz / Suisse / Svizzera)
+
+**Jurisdiction code:** `CH` · **Legal system:** civil-law  
+**Language(s):** de, fr, it, rm
+
+Switzerland is a multilingual civil-law confederation whose family-court framework operates under the federal Zivilgesetzbuch (ZGB) supplemented by cantonal procedural law. Parental authority (elterliche Sorge / autorité parentale) is governed by ZGB arts. 296-298, with joint parental authority the statutory default since the 2014 reform regardless of marital status. Personal contact (persönlicher Verkehr / Besuchsrecht) is governed by ZGB art. 273. The Bundesgericht (BGer / Tribunal fédéral, Lausanne) is the apex court; family-law matters reach BGer principally via Beschwerde in Zivilsachen against cantonal high-court decisions. The KESB (Kindes- und Erwachsenenschutzbehörde / autorité de protection de l'enfant et de l'adulte) framework replaced the cantonal Vormundschaftsbehörden in 2013 and operates as the first-instance child-protection authority across all cantons. Psychology profession is regulated under federal PsyG 2011 (Psychologieberufegesetz, in force 2013), which provides statutory title protection and standardised postgraduate training requirements. Switzerland is silent on 'parental alienation' as a statutory label; BGer practice operates substantively under the Kindeswohl (child-welfare) standard with no apex endorsement of PAS/PA as a diagnostic category.
+
+## PA recognition status
+
+* **Statutory:** silent
+* **Apex court position:** no-apex-position
+* **Professional regulator position:** silent
+
+## Statutory framework
+
+* **ZGB art. 296-298** — Elterliche Sorge / Autorité parentale (Parental authority) (2014) — <https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de>
+* Federal civil-code basis for parental authority. Since the 1 July 2014 reform (joint-authority default amendment) joint parental authority applies by default regardless of marital status, with sole authority reserved for circumstances where it serves the child's welfare. Central provisions for any PA-adjacent custody-modification analysis.
+* **ZGB art. 273** — Persönlicher Verkehr / Relations personnelles (Personal contact) (1976) — <https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de>
+* Federal civil-code basis for the right of personal contact between non-residential parent and child. Substantive hook for PA-adjacent contact-enforcement disputes. BGer practice treats refusal of contact and obstruction by the residential parent as factors under the Kindeswohl welfare analysis without endorsing PAS as a diagnostic label.
+* **ZGB art. 307-315** — Kindesschutz / Protection de l'enfant (Child protection) (1976) — <https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de>
+* Federal civil-code basis for child-protection measures (Beistandschaft, Obhutsentzug, fremdplatzierung). Operationalised by KESB at first instance. Cited in PA-adjacent fact-patterns where sustained alienating conduct triggers protective intervention.
+* **ZPO (Zivilprozessordnung) art. 295-302** — Federal Civil Procedure Code — family-court procedure (2011) — <https://www.fedlex.admin.ch/eli/cc/2010/262/de>
+* Federal civil-procedure framework that since 1 January 2011 unified cantonal civil procedure. Art. 295-302 govern family-court procedure including child-hearing arrangements and expert evidence.
+* **PsyG 2011 (Psychologieberufegesetz)** — Federal Act on Psychology Professions (2011) — <https://www.fedlex.admin.ch/eli/cc/2012/796/de>
+* Federal statute in force 1 April 2013 providing statutory title protection for psychologists and psychotherapists, regulating postgraduate training and the PsyKo (Psychologieberufekommission). Statutory anchor for evaluator-quality in court-appointed psychological assessments in family-court proceedings.
+
+## Apex courts
+
+### Bundesgericht / Tribunal fédéral / Tribunale federale (BGer)
+
+<https://www.bger.ch/>
+
+## Professional regulators
+
+* **Föderation der Schweizer Psychologinnen und Psychologen (FSP) / Fédération Suisse des Psychologues** — <https://www.psychologie.ch/>
+* **PsyKo (Psychologieberufekommission) — federal statutory commission under PsyG** — <https://www.bag.admin.ch/bag/de/home/berufe-im-gesundheitswesen/psychologieberufe.html>
+* **Schweizerische Konferenz für Kindes- und Erwachsenenschutz (KOKES) / Conférence en matière de protection des mineurs et des adultes (COPMA)** — <https://www.kokes.ch/>
+
+## Anonymisation convention
+
+Swiss family-law decisions are anonymised per BGer convention using initials (e.g. 'A.', 'B.', 'X.', 'Y.') or single-letter labels. BGer published decisions ('amtliche Sammlung' BGE / arrêts officiels) routinely strip identifying details. Cantonal high-court family-law decisions follow similar conventions. Sits between strict-statutory (AU FLA s.121) and adult-party-permissive (US) ends of the corpus spectrum.
+
+## Key developments
+
+* **1976** — Modern framework for parental authority and personal contact established under federal civil code.
+* **2011** — Unified federal civil procedure replaced 26 cantonal civil-procedure codes effective 1 January 2011.
+* **2013** — KESB cantonal authorities replaced Vormundschaftsbehörden effective 1 January 2013; PsyG 2011 in force 1 April 2013.
+* **2014** — ZGB art. 296-298 amended effective 1 July 2014 to provide joint parental authority by default regardless of marital status.
+* **2017** — Further alignment of post-separation parental obligations effective 1 January 2017.
+
+## Structural findings
+
+* Switzerland sits structurally adjacent to Germany within the corpus: civil-law / federal-civil-code framework + 2014 joint-authority-default reform parallel to similar reforms across the EU6 cluster. Unlike Germany, however, the Bundesgericht has not produced a published apex-level engagement with the PAS construct equivalent to the [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 critique-camp decision.
+* PsyG 2011 statutory title protection regime provides a structurally distinctive evaluator-quality anchor among the corpus: only one of a small set of jurisdictions where psychology profession is regulated at federal-statutory level with mandatory postgraduate training + title protection. Sits alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN as a statutory psychology regulator in the corpus.
+* Multilingual jurisdiction (DE/FR/IT/RO official languages) operates a quadrilingual legal framework — all federal statutes published in the four languages with equal authority. Cantonal courts operate in the dominant cantonal language(s). Verbatim-quote handling in case studies would require parallel-language presentation if a Swiss case study is added to the corpus.
+* KESB framework (since 2013) operates as first-instance child-protection authority distinct from family-court — distinctive among corpus jurisdictions. PA-adjacent fact-patterns may reach the family court via the parental-authority/contact path (ZGB 296/273) or the KESB protection path (ZGB 307-315) in parallel.
+
+## See also
+
+* `jurisdiction:germany`
+* `jurisdiction:france`
+* `jurisdiction:italy`
+* `jurisdiction:european-convention-on-human-rights`
+* `evidence:evaluator-quality-regulation-across-jurisdictions`
+* `evidence:eu-apex-sequence-2017-2025`
+* `evidence:childrens-rights-paramountcy-doctrine`
+* `evidence:federalism-patterns-and-pa-doctrine-fragmentation`
+
+## Sources
+
+1. **Bundesgericht / Tribunal fédéral — Switzerland Federal Supreme Court** — <https://www.bger.ch/> (Schweizerische Eidgenossenschaft / Confédération suisse) [de,fr,it]
+2. **Fedlex — Federal Collection of Federal Law (Schweizerisches Bundesrecht)** — <https://www.fedlex.admin.ch/> (Bundeskanzlei / Chancellerie fédérale) [de,fr,it,rm,en]
+3. **PsyG (Psychologieberufegesetz) — Federal Act on Psychology Professions** — <https://www.fedlex.admin.ch/eli/cc/2012/796/de> (Schweizerische Eidgenossenschaft) [de,fr,it]
+4. **Föderation der Schweizer Psychologinnen und Psychologen (FSP)** — <https://www.psychologie.ch/> (FSP) [de,fr,it]
+5. **Schweizerische Konferenz für Kindes- und Erwachsenenschutz (KOKES) / COPMA** — <https://www.kokes.ch/> (KOKES) [de,fr,it]
+6. **Bundesamt für Gesundheit (BAG) — Psychology Professions** — <https://www.bag.admin.ch/bag/de/home/berufe-im-gesundheitswesen/psychologieberufe.html> (Bundesamt für Gesundheit) [de,fr,it,en]
+
+## Editorial notes
+
+* Switzerland jurisdiction sidecar establishes the Swiss civil-law framework within the corpus alongside Germany, France, Italy, Netherlands and Belgium. Federal Zivilgesetzbuch (ZGB) + Bundesgericht (BGer) apex + KESB child-protection structure + PsyG 2011 statutory psychology regulator.
+* PA-recognition status: silent across statutory + apex + regulator axes. BGer has not produced a published apex-level engagement with the PAS construct equivalent to the [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 critique-camp decision. BGer practice operates substantively under the Kindeswohl welfare standard.
+* PsyG 2011 statutory title-protection regime placed Switzerland among the federal-statutory psychology regulator group within the corpus ([HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH).
+* KESB framework (since 2013) operates distinctively as first-instance child-protection authority parallel to family-court parental-authority/contact jurisdiction — structurally distinctive among corpus jurisdictions.
+* Sources: Fedlex for federal statutes + bger.ch for BGer case-law + psychologie.ch for FSP + kokes.ch for KESB inter-cantonal conference. Anonymisation per BGer convention preserves initials-style identification within the broader corpus anonymisation spectrum.
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+## What this means if your child is being withheld from you in Switzerland
+
+The operative framework is the [Schweizerisches Zivilgesetzbuch (ZGB)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de) — particularly arts. 273 ff. on *persönlicher Verkehr* (personal contact) and arts. 296 ff. on *elterliche Sorge* (parental authority). The principle is *Kindeswohl* (welfare of the child). Since the 2014 reform, **joint parental authority (gemeinsame elterliche Sorge) is the default** post-separation per ZGB art. 296.
+
+**Procedural pathway — the Kindes- und Erwachsenenschutzbehörde (KESB) + cantonal courts.** Switzerland operates a two-track structure unique among European jurisdictions:
+- The **KESB** (Child and Adult Protection Authority — one per regional district) handles administrative track: regulating *persönlicher Verkehr*, child-welfare interventions, foster care.
+- The **kantonale Familiengericht** (cantonal family court — naming varies by canton) handles divorce/separation-related custody matters under the [Zivilprozessordnung (ZPO)](https://www.fedlex.admin.ch/) procedural code.
+
+Most contact disputes outside divorce go to the KESB. *Anhörung des Kindes* (hearing the child) under ZGB art. 298 is generally required from age 6 upwards in KESB practice.
+
+**The KESB system — practical implications.** KESB decisions are administrative orders enforceable via the cantonal *Verwaltungsgericht* on appeal. The KESB can order *Beistandschaft* (court-appointed support — equivalent to a Children's Guardian), *Anordnung über den persönlichen Verkehr* (contact order), or in serious cases *Entzug der Obhut* (removal of de facto care). Decisions can be made quickly (often within weeks) in urgent cases — advantageous for targeted parents where contact has just stopped.
+
+**Contact enforcement.** Where a KESB or court-ordered *persönlicher Verkehr* is being ignored, the [Strafgesetzbuch art. 220](https://www.fedlex.admin.ch/) (*Entziehen von Minderjährigen* — withholding a minor) is the principal criminal-track tool, punishable by imprisonment up to 3 years or a monetary penalty. The 2024 reform increased the maximum sentence for systematic cross-border cases. Civil enforcement under ZPO art. 343 allows escalating *Ordnungsbusse* (administrative fines) and ultimately *Vollstreckung mit polizeilicher Gewalt* (police-assisted handover) in extreme cases.
+
+**The PA-construct question.** The [Schweizerische Föderation der Psychologinnen und Psychologen (FSP)](https://www.psychologie.ch/) has been methodologically cautious; no positive endorsement of *Parental Alienation Syndrome*. The dominant Swiss forensic-psychology framing is *Loyalitätskonflikt* (loyalty conflict) and *Kontaktverweigerung* treated as behavioural patterns. Cantonal courts and the [Bundesgericht](https://www.bger.ch/) apply the *Kindeswohl* analysis without recourse to a syndrome label. BGer 5A\_904/2020 and subsequent jurisprudence consistently apply behaviour-based analysis.
+
+**Linguistic communities.** Switzerland operates four official languages. Procedure runs in the cantonal language. German-speaking cantons follow Germanic family-law doctrine; Romandie (Geneva, Vaud, Neuchâtel, Jura, Fribourg, Valais) follows Latin civil-law tradition.
+
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24).** Switzerland is a Hague 1980 contracting state. The Central Authority operates through the [Bundesamt für Justiz (BJ)](https://www.bj.admin.ch/).
+
+**Get local counsel.** *Rechtsanwalt / Anwältin* (member of cantonal bar — *Anwaltskammer*) is recommended for any contested matter. The [Schweizerischer Anwaltsverband (SAV)](https://www.sav-fsa.ch/) maintains family-law specialist directories. *Unentgeltliche Rechtspflege* (legal aid) is means-tested via the cantonal court.
+
+## FAQ — Parental alienation in Switzerland (Schweiz / Suisse / Svizzera)
+
+### Is parental alienation illegal in Switzerland (Schweiz / Suisse / Svizzera)?
+
+In Switzerland (Schweiz / Suisse / Svizzera) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Switzerland (Schweiz / Suisse / Svizzera)?
+
+The primary statutory basis in Switzerland (Schweiz / Suisse / Svizzera) is ZGB art. 296-298 — Elterliche Sorge / Autorité parentale (Parental authority). Authoritative text: <https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de>.
+
+### What can a parent do if their child is being withheld from them in Switzerland (Schweiz / Suisse / Svizzera)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Switzerland (Schweiz / Suisse / Svizzera)'s best-interests-of-the-child framework (ZGB art. 296-298) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+* [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+* [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+* [UN Treaty Collection — international treaties](https://treaties.un.org/)
+* [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+* [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+* [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+---
+
+## Related on antialienate.com
+
+* [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+* [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+* [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+* [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
+* [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
