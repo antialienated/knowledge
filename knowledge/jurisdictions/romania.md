@@ -1,0 +1,146 @@
+---
+title: Romania (România)
+section: jurisdictions
+summary: "Jurisdiction code: RO · Legal system: civil-law Language s : ro Romania is a civil-law unitary republic whose family-law framework operates under the New Civil Code Codul Civil, Law 287/2009 Book Two "
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/jurisdictions/romania"
+---
+# Romania (România)
+
+**Jurisdiction code:** `RO` · **Legal system:** civil-law  
+**Language(s):** ro
+
+Romania is a civil-law unitary republic whose family-law framework operates under the New Civil Code (Codul Civil, Law 287/2009) Book Two (Family Law) in force 1 October 2011. Parental authority (autoritate părintească) is governed by Codul Civil arts. 483-512; joint exercise of parental authority operates as the statutory default during marriage and after divorce. The Înalta Curte de Casație și Justiție (ICCJ, Bucharest) is the apex civil court of cassation; the Curtea Constituțională (Constitutional Court) operates separate constitutional-review jurisdiction. Family-law matters proceed through Judecătoria (District Courts), Tribunal (County Courts), and Curtea de Apel (Court of Appeal) before reaching ICCJ. Psychology profession is regulated under Law 213/2004 establishing the Colegiul Psihologilor din România (CPR) — statutory professional-order regime. Romania is silent on 'parental alienation' as a statutory label; courts operate substantively under the interesul superior al copilului (best-interests-of-the-child) standard. ECHR Strasbourg jurisprudence has produced a substantial body of Romanian contact-enforcement cases engaging the Article 8 positive-obligations framework (e.g. Lafargue v. Romania, Iosub Caras v. Romania).
+
+## PA recognition status
+
+* **Statutory:** silent
+* **Apex court position:** no-apex-position
+* **Professional regulator position:** silent
+
+## Statutory framework
+
+* **Codul Civil arts. 483-512** — New Civil Code Book Two — Parental authority (2009) — <https://legislatie.just.ro/Public/DetaliiDocument/109884>
+* Federal civil-code basis for parental authority. Law 287/2009 (New Civil Code) in force 1 October 2011. Art. 503 establishes joint exercise of parental authority by both parents. Art. 263 establishes the interesul superior al copilului standard as decisive in all decisions concerning the child.
+* **Law 272/2004 — Protection of the Child** — Law on the protection and promotion of the rights of the child (2004) — <https://legislatie.just.ro/Public/DetaliiDocument/53528>
+* Federal child-protection statute providing the framework for the welfare-paramountcy standard and the Direcția Generală de Asistență Socială și Protecția Copilului (DGASPC) child-protection authorities.
+* **Law 213/2004 — Colegiul Psihologilor** — Law establishing the College of Psychologists (2004) — <https://legislatie.just.ro/Public/DetaliiDocument/52464>
+* Federal statute establishing the Colegiul Psihologilor din România (CPR) as the statutory professional-order regulator. Statutory title protection for 'psiholog'; mandatory CPR membership for practising psychologists; disciplinary jurisdiction.
+
+## Apex courts
+
+### Înalta Curte de Casație și Justiție (ICCJ)
+
+<https://www.scj.ro/>
+
+### Curtea Constituțională (Constitutional Court)
+
+<https://www.ccr.ro/>
+
+## Professional regulators
+
+* **Colegiul Psihologilor din România (CPR)** — <https://www.copsi.ro/>
+
+## Anonymisation convention
+
+Romanian family-law decisions are anonymised per ICCJ practice using initials. Published decisions on scj.ro strip identifying details.
+
+## Key developments
+
+* **2004** — Child-protection statute (Law 272/2004) and Colegiul Psihologilor establishment (Law 213/2004) enacted.
+* **2009** — Law 287/2009 (New Civil Code) adopted; in force 1 October 2011 — substantial modernisation of Romanian private law including family-law framework.
+* **2011** — Codul Civil in force 1 October 2011 — joint exercise of parental authority operates as statutory default.
+
+## Structural findings
+
+* Romania sits structurally within the CEE civil-law cluster alongside Poland + Czechia + Hungary + Bulgaria — modernised Civil Code 2011 + welfare-standard family-court framework + Constitutional Court constitutional-review jurisdiction.
+* CPR statutory professional-order regime (Law 213/2004) places Romania among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psykolognævnet DK + Helsedirektoratet NO + Valvira FI + Embætti landlæknis IS + OPP PT + Psychologists Law 1977 IL.
+* Substantial Strasbourg jurisprudence on Romanian contact-enforcement (Lafargue v. Romania, Iosub Caras v. Romania, and others) engages Article 8 positive-obligations framework — sits structurally alongside the Italian triptych (Bondavalli + Improta + Strumia) documented elsewhere in the corpus.
+
+## See also
+
+* `jurisdiction:poland`
+* `jurisdiction:european-convention-on-human-rights`
+* `evidence:strasbourg-article-8-positive-obligations-doctrine`
+* `evidence:evaluator-quality-regulation-across-jurisdictions`
+* `evidence:childrens-rights-paramountcy-doctrine`
+
+## Sources
+
+1. **Înalta Curte de Casație și Justiție (ICCJ)** — <https://www.scj.ro/> (ICCJ) [ro]
+2. **Curtea Constituțională** — <https://www.ccr.ro/> (Curtea Constituțională) [ro,en]
+3. **Portalul Legislativ** — <https://legislatie.just.ro/> (Ministerul Justiției) [ro]
+4. **Colegiul Psihologilor din România (CPR)** — <https://www.copsi.ro/> (CPR) [ro]
+
+## Editorial notes
+
+* Romania jurisdiction sidecar — CEE civil-law framework. Codul Civil 2011 + Law 272/2004 child protection + Law 213/2004 CPR statutory professional-order psychology regulator.
+* PA-recognition: silent statutory + no-apex-position + silent regulator. Substantial Strasbourg jurisprudence (Lafargue + Iosub Caras) on contact-enforcement engages Article 8 positive obligations.
+* Joins CEE civil-law + federal-statutory psychology regulator + Strasbourg-Article-8 jurisprudence clusters within the corpus.
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+## What this means if your child is being withheld from you in Romania
+
+The operative framework is the [Codul Civil (Law 287/2009, in force 1 October 2011)](https://legislatie.just.ro/), particularly arts. 483–512 on *autoritatea părintească* (parental authority) and arts. 496–504 on *exercitarea autorității părintești* (exercise of parental authority) post-separation. The principle is *interesul superior al copilului* (best interest of the child) per [Law 272/2004 on Promotion and Protection of Children's Rights](https://legislatie.just.ro/) art. 2.
+
+**Default — joint parental authority.** Romanian Civil Code art. 503 establishes *autoritate părintească comună* (joint parental authority) as the default post-divorce, with both parents exercising decision-making jointly. Allocation of *locuința minorului* (the child's residence) is separately determined under art. 400.
+
+**Procedural pathway — the Judecătoria.** Family disputes go to the *judecătoria* (district court) of the child's habitual residence (per [Codul de procedură civilă art. 114](https://legislatie.just.ro/)). For divorce-related custody, the *tribunal* (regional court) handles primary proceedings. Procedure runs under the special family-procedure track. The *Direcția Generală de Asistență Socială și Protecția Copilului (DGASPC)* — the County Directorate for Social Assistance and Child Protection — appears as the structural child-welfare body and conducts welfare assessments under Law 272/2004.
+
+**Statutory recognition of contact obligation.** [Codul Civil art. 496](https://legislatie.just.ro/) explicitly requires both parents to facilitate the child's relationship with the other parent and to refrain from any conduct that would impair the relationship. Breach is grounds for modification of the *locuința minorului* allocation under art. 403.
+
+**Contact enforcement.** Where a court-ordered *programul de vizitare* (visitation schedule) is being ignored, [Codul de procedură civilă art. 910–913](https://legislatie.just.ro/) and [Law 304/2022](https://legislatie.just.ro/) provide for enforcement via *executor judecătoresc* (court bailiff) with escalating *amendă* (fines) and police-supported handover where necessary.
+
+**Criminal exposure.** [Codul penal art. 379](https://legislatie.just.ro/) (*nerespectarea măsurilor privind încredințarea minorului*) explicitly criminalises non-compliance with custody arrangements — punishable by imprisonment up to 1 year or fine. This is one of the most specific criminal contact-obstruction provisions in EU family law.
+
+**The PA-construct question.** The [Colegiul Psihologilor din România](https://www.copsi.ro/) has not formally endorsed *Sindromul de Alienare Parentală* (PAS) as a diagnostic category. Romanian family-court practice applies behaviour-based analysis under the *interesul superior al copilului* framework. The [Înalta Curte de Casație și Justiție](https://www.scj.ro/) has not endorsed PAS as a syndrome but has applied behaviour-based analysis in custody-modification cases.
+
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Romania is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Ministerul Justiției](https://www.just.ro/). Cross-border EU cases engage Brussels IIb (Regulation 2019/1111). The *Judecătoria sector 1 București* has exclusive first-instance jurisdiction for Hague return applications.
+
+**Get local counsel.** *Avocat* (member of a *Barou*) with family-law practice. The [Uniunea Națională a Barourilor din România (UNBR)](https://www.unbr.ro/) maintains specialist directories. *Asistență judiciară* (legal aid) is income-tested via the *Barou*. The Bucharest Bar Family Law Committee is a key practitioner forum.
+
+## FAQ — Parental alienation in Romania (România)
+
+### Is parental alienation illegal in Romania (România)?
+
+In Romania (România) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Romania (România)?
+
+The primary statutory basis in Romania (România) is Codul Civil arts. 483-512 — New Civil Code Book Two — Parental authority. Authoritative text: <https://legislatie.just.ro/Public/DetaliiDocument/109884>.
+
+### What can a parent do if their child is being withheld from them in Romania (România)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Romania (România)'s best-interests-of-the-child framework (Codul Civil arts. 483-512) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+* [HUDOC search: Lafargue](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lafargue%22]})
+* [HUDOC search: Caras](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Caras%22]})
+* [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+* [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+* [UN Treaty Collection — international treaties](https://treaties.un.org/)
+* [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+* [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+* [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+---
+
+## Related on antialienate.com
+
+* [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+* [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+* [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+* [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+* [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
