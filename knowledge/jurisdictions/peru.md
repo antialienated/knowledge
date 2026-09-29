@@ -1,0 +1,147 @@
+---
+title: Peru (Republic of Peru / República del Perú)
+section: jurisdictions
+summary: "Jurisdiction code: PE · Legal system: civil-law Language s : es Peru is an Andean South American civil-law republic whose family-law framework operates under the Civil Code 1984 Código Civil, Decreto "
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/jurisdictions/peru"
+---
+# Peru (Republic of Peru / República del Perú)
+
+**Jurisdiction code:** `PE` · **Legal system:** civil-law  
+**Language(s):** es
+
+Peru is an Andean South American civil-law republic whose family-law framework operates under the Civil Code 1984 (Código Civil, Decreto Legislativo 295) Book III (Family Law), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 418-471, supplemented by the Children and Adolescents Code 2000 (Law 27337). The Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/)) is the apex court for civil and criminal matters; the Constitutional Court ([Tribunal Constitucional](https://www.tribunalconstitucional.es/)) operates separate constitutional review. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos del Perú (Law 23019/1980). Peru is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. IX. Peru acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 August 2001.
+
+## PA recognition status
+
+* **Statutory:** silent
+* **Apex court position:** no-apex-position
+* **Professional regulator position:** silent
+
+## Statutory framework
+
+* **Civil Code 1984 (Decreto Legislativo 295) arts. 418-471 (Book III)** — Civil Code Book III — Family Law (1984) — <https://www.pj.gob.pe/>
+* Federal Civil Code Book III on Family Law. Arts. 418-471 govern patria potestad and child custody.
+* **Children and Adolescents Code 2000 (Law 27337)** — Children and Adolescents Code (2000) — <https://www.pj.gob.pe/>
+* Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
+* **Colegio de Psicólogos Law 23019 of 1980** — Colegio de Psicólogos Law (1980) — <https://www.cpsp.pe/>
+* Federal statute establishing Colegio de Psicólogos del Perú — among earliest Latin American statutory psychology regulation.
+
+## Apex courts
+
+### Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/))
+
+<https://www.pj.gob.pe/>
+
+### Constitutional Court ([Tribunal Constitucional](https://www.tribunalconstitucional.es/))
+
+<https://www.tc.gob.pe/>
+
+## Professional regulators
+
+* **Colegio de Psicólogos del Perú** — <https://www.cpsp.pe/>
+
+## Anonymisation convention
+
+Peruvian family-court decisions are anonymised per Supreme Court practice using initials.
+
+## Key developments
+
+* **1980** — Federal statute establishing Colegio de Psicólogos del Perú — among earliest Latin American statutory psychology regulation.
+* **1984** — Federal Civil Code enacted with substantial modernisation including Book III on Family Law.
+* **2000** — Federal Code enacted codifying superior-interest principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
+* **2001** — Peru acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 August 2001.
+
+## Structural findings
+
+* Peru operates a Spanish-civil-law family-law framework — places Peru in the Andean South American civil-law cluster with Bolivia, Ecuador, Colombia.
+* Colegio de Psicólogos Law 1980 is among the earliest Latin American statutory psychology regulations within the corpus — places Peru in the early-Latin-American-psychology-regulation cluster alongside Costa Rica (1977).
+* [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2001 places Peru in the Hague Latin American cluster.
+
+## See also
+
+* `jurisdiction:bolivia`
+* `jurisdiction:ecuador`
+* `jurisdiction:colombia`
+* `evidence:cross-border-parental-abduction-and-pa-intersection`
+* `evidence:childrens-rights-paramountcy-doctrine`
+
+## Sources
+
+1. **Judicial Power of Peru (Poder Judicial)** — <https://www.pj.gob.pe/> (Judicial Power) [es]
+2. **Constitutional Court** — <https://www.tc.gob.pe/> (Constitutional Court) [es]
+3. **Colegio de Psicólogos del Perú** — <https://www.cpsp.pe/> (Colegio de Psicólogos) [es]
+
+## Editorial notes
+
+* Peru jurisdiction sidecar — civil-law Andean South America (Civil Code 1984 Book III + Children and Adolescents Code 2000 + Colegio de Psicólogos Law 1980 — earliest Latin American + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2001).
+* PA-recognition: silent statutory + no-apex-position + silent regulator.
+* Joins Latin American + civil-law + Andean South American + early-Latin-American-psychology-regulation + Hague Convention clusters within the corpus.
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+## What this means if your child is being withheld from you in Peru
+
+The operative framework is the [Código Civil arts. 418–471](https://www.gob.pe/) on *patria potestad* and *tenencia* (custody) and the [Código de los Niños y Adolescentes (Ley 27337)](https://www.gob.pe/). The principle is *interés superior del niño y del adolescente* per Constitución art. 4 and CNA art. IX.
+
+**Default position.** *Patria potestad* is jointly exercised under Código Civil arts. 418–419. On separation, *tenencia* (de facto custody) allocation follows CNA arts. 81–87, with the welfare-paramountcy override.
+
+**Procedural pathway — the Juzgado de Familia.** Family disputes go to the *Juzgado de Familia* (Family Court — under the [Ley Orgánica del Poder Judicial](https://www.gob.pe/)) of the child's habitual residence. Procedure under the [Código Procesal Civil arts. 547](https://www.gob.pe/) special family-procedure track. The *Equipo Multidisciplinario* (multi-disciplinary court team — psychologists, social workers) conducts welfare assessments under CNA art. 150.
+
+**Statutory recognition of *tenencia compartida*.** [Ley 29269 (2008)](https://www.gob.pe/) introduced *tenencia compartida* (shared custody) as a possible regime where appropriate to the child's interest. *Régimen de visitas* (visitation regime) is regulated under CNA arts. 88–91 and applies to the non-custodial parent.
+
+**Statutory recognition of obstruction.** [CNA art. 86](https://www.gob.pe/) explicitly recognises the right of the non-custodial parent to maintain contact and requires the custodial parent to facilitate the régimen de visitas. Breach is grounds for *variación de la tenencia* (variation of custody) under CNA art. 84.
+
+**Contact enforcement.** Where a *régimen de visitas* is being ignored, the [Código Procesal Civil art. 716](https://www.gob.pe/) and CNA mechanisms authorise *apercibimientos* (warnings), *multas* (fines), and ultimately *variación de la tenencia*. Peruvian Juzgados de Familia have been moderately willing to use tenencia-transfer in sustained-obstruction cases.
+
+**Criminal exposure.** [Código Penal art. 147](https://www.gob.pe/) (*sustracción de menor* — taking a minor from custody) is available for serious systematic obstruction, punishable by imprisonment up to 4 years.
+
+**The PA-construct question.** The [Colegio de Psicólogos del Perú](https://cpsp.pe/) has not formally endorsed *Síndrome de Alienación Parental* (SAP) as a diagnostic category. Peruvian family-court practice has tended to apply behaviour-based analysis under the *interés superior* framework. The [Tribunal Constitucional](https://tc.gob.pe/) has not endorsed PAS as a syndrome.
+
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Peru is a Hague 1980 contracting state. The Central Authority operates through the [Ministerio de la Mujer y Poblaciones Vulnerables (MIMP)](https://www.gob.pe/mimp). Hague return proceedings go to the *Juzgado de Familia* of Lima for international cases.
+
+**Get local counsel.** *Abogado* (member of a regional [Colegio de Abogados](https://www.cal.org.pe/)) with family-law practice. The *Colegio de Abogados de Lima* maintains family-law specialist directories. *Defensa Pública* (public defender) provides means-tested representation via the Ministerio de Justicia.
+
+## FAQ — Parental alienation in Peru (Republic of Peru / República del Perú)
+
+### Is parental alienation illegal in Peru (Republic of Peru / República del Perú)?
+
+In Peru (Republic of Peru / República del Perú) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Peru (Republic of Peru / República del Perú)?
+
+The primary statutory basis in Peru (Republic of Peru / República del Perú) is Civil Code 1984 (Decreto Legislativo 295) arts. 418-471 (Book III) — Civil Code Book III — Family Law. Authoritative text: <https://www.pj.gob.pe/>.
+
+### What can a parent do if their child is being withheld from them in Peru (Republic of Peru / República del Perú)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Peru (Republic of Peru / República del Perú)'s best-interests-of-the-child framework (Civil Code 1984 (Decreto Legislativo 295) arts. 418-471 (Book III)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+* [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+* [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
+
+**Topic baseline (independently verifiable):**
+
+* [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+* [UN Treaty Collection — international treaties](https://treaties.un.org/)
+* [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+* [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+* [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+---
+
+## Related on antialienate.com
+
+* [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+* [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+* [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+* [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+* [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
