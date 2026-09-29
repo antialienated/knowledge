@@ -1,0 +1,141 @@
+---
+title: Sweden (Sverige)
+section: jurisdictions
+summary: "Jurisdiction code: SE · Legal system: civil-law Language s : sv Sweden is a Nordic civil-law unitary kingdom whose family-court framework operates under the Föräldrabalken Children and Parents Code, F"
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/jurisdictions/sweden"
+---
+# Sweden (Sverige)
+
+**Jurisdiction code:** `SE` · **Legal system:** civil-law  
+**Language(s):** sv
+
+Sweden is a Nordic civil-law unitary kingdom whose family-court framework operates under the Föräldrabalken (Children and Parents Code, FB) of 1949 as substantially amended. Joint custody (gemensam vårdnad) is the statutory default in Sweden including for parents who never lived together; this places Sweden among the strongest joint-custody-default jurisdictions in Europe. The Högsta domstolen (Supreme Court) is the apex court for civil and criminal matters; family-law decisions reach the Supreme Court via the Hovrätt (Court of Appeal) following Tingsrätt (District Court) determinations. Psychology profession is regulated under the Hälso- och sjukvårdens ansvarsnämnd (HSAN) and the Socialstyrelsen (National Board of Health and Welfare) under the Patientsäkerhetslagen 2010:659 — psychologist (legitimerad psykolog) is a statutorily protected title requiring a licence issued by Socialstyrelsen. Sweden is silent on 'parental alienation' as a statutory label; courts operate substantively under the barnets bästa (best-interests-of-the-child) welfare standard.
+
+## PA recognition status
+
+* **Statutory:** silent
+* **Apex court position:** no-apex-position
+* **Professional regulator position:** silent
+
+## Statutory framework
+
+* **Föräldrabalken (FB) ch. 6** — Children and Parents Code, Chapter 6 — Custody, Residence and Contact (Vårdnad, Boende och Umgänge) (1949) — <https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381>
+* Federal civil-code basis for custody, residence and contact. Joint custody (gemensam vårdnad) operates as the statutory default. § 6:2a establishes that the child's best interest shall be decisive in all decisions on custody, residence and contact. Central provisions for any PA-adjacent custody-modification analysis.
+* **Föräldrabalken (FB) ch. 6 § 2a** — Barnets bästa (Best interests of the child) (2006) — <https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381>
+* Welfare-standard provision establishing barnets bästa as decisive in custody/residence/contact decisions. Inserted in the 2006 vårdnadsreform (custody reform) which strengthened the best-interests standard and the focus on the child's need for close and good contact with both parents.
+* **Patientsäkerhetslagen 2010:659** — Patient Safety Act 2010:659 (2010) — <https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/patientsakerhetslag-2010659_sfs-2010-659>
+* Federal statute regulating health and social-care professions including psychologists. Statutorily protected title 'legitimerad psykolog' requires a licence issued by Socialstyrelsen. Statutory anchor for evaluator-quality in court-appointed psychological assessments.
+
+## Apex courts
+
+### Högsta domstolen (HD)
+
+<https://www.domstol.se/hogsta-domstolen/>
+
+## Professional regulators
+
+* **Socialstyrelsen (National Board of Health and Welfare)** — <https://www.socialstyrelsen.se/>
+* **Sveriges Psykologförbund** — <https://www.psykologforbundet.se/>
+
+## Anonymisation convention
+
+Swedish family-law decisions are anonymised per Högsta domstolen and Hovrätt convention using initials. Published HD decisions on Domstolsverket (Courts of Sweden) portal and Notisum strip identifying details. Sits within the European-civil-law initials cluster.
+
+## Key developments
+
+* **1949** — Children and Parents Code (FB) enacted 1949 — foundational federal civil-code framework for family law in Sweden.
+* **1998** — Custody reform strengthened the joint-custody-default and introduced the close-and-good-contact (god kontakt) standard.
+* **2006** — Custody reform strengthened the barnets bästa best-interests standard and introduced explicit consideration of risk of harm to the child as a counterweight to the contact-promotion provisions.
+* **2010** — Patient Safety Act consolidated health-and-social-care professional regulation; statutorily protected title 'legitimerad psykolog' requiring Socialstyrelsen licence.
+* **2021** — UN CRC incorporated into Swedish law 1 January 2020 by Lag (2018:1197) om Förenta nationernas konvention om barnets rättigheter — strengthens children's-rights paramountcy in family-court decision-making.
+
+## Structural findings
+
+* Sweden sits structurally within the Nordic civil-law cluster — strongest joint-custody-default regime in Europe (joint custody applies including for parents who never lived together) + barnets bästa welfare standard + UN CRC incorporated as Swedish law since 2020. Distinctive among corpus jurisdictions for the constitutional-level incorporation of UN CRC.
+* Patientsäkerhetslagen 2010:659 statutory-licence regime places Sweden among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE — with Socialstyrelsen-issued legitimation as the statutory mechanism.
+* Swedish family-law contains no statutory references to PAS / parental alienation. The 2006 vårdnadsreform deliberately balanced the close-and-good-contact (god kontakt) provisions with explicit risk-of-harm considerations following critique that earlier framing produced contact-promotion in DV-overlap cases — structurally similar to the Australian 2023 Amendment Act re-balancing.
+
+## See also
+
+* `jurisdiction:germany`
+* `jurisdiction:netherlands`
+* `jurisdiction:switzerland`
+* `jurisdiction:european-convention-on-human-rights`
+* `evidence:evaluator-quality-regulation-across-jurisdictions`
+* `evidence:childrens-rights-paramountcy-doctrine`
+* `evidence:coercive-control-statutes-and-pa-critique-intersection`
+
+## Sources
+
+1. **Domstolsverket — Courts of Sweden** — <https://www.domstol.se/> (Domstolsverket) [sv,en]
+2. **Riksdagen — Svensk författningssamling** — <https://www.riksdagen.se/sv/dokument-lagar/> (Sveriges riksdag) [sv]
+3. **Socialstyrelsen — National Board of Health and Welfare** — <https://www.socialstyrelsen.se/> (Socialstyrelsen) [sv,en]
+4. **Sveriges Psykologförbund** — <https://www.psykologforbundet.se/> (Sveriges Psykologförbund) [sv]
+
+## Editorial notes
+
+* Sweden jurisdiction sidecar establishes the Nordic civil-law framework within the corpus. Föräldrabalken + Patientsäkerhetslagen 2010:659 + Socialstyrelsen + UN CRC as Swedish law (2020).
+* PA-recognition: silent statutory + no-apex-position + silent regulator. 2006 vårdnadsreform re-balanced contact-promotion against risk-of-harm — structurally similar to Australian 2023 reform.
+* Joins Nordic + federal-statutory psychology regulator clusters within the corpus.
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+## What this means if your child is being withheld from you in Sweden
+
+The operative framework is the [Föräldrabalken (FB)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381/) — the Parental Code — particularly *kap. 6* on *vårdnad, boende och umgänge* (custody, residence and contact). The principle is *barnets bästa* (child's best interests) as paramount. Sweden's default position post-separation is *gemensam vårdnad* (joint custody) unless one parent is *uppenbart olämplig* (manifestly unsuitable) per FB 6:5.
+
+**The 2024 reform — *trygg uppväxt*.** The 2024 amendments to FB ch. 6 (in force 1 July 2024) introduced an explicit duty to consider *risk att barnet far illa* (risk that the child suffers harm) and substantially strengthened the court's authority to override the joint-custody default where one parent is engaging in conduct that harms the child's relationship with the other. This is the most significant post-Hague-2014 Swedish family-law reform.
+
+**Procedural pathway — the Tingsrätt.** Family disputes go to the *tingsrätt* (district court) of the child's *hemvist*. Procedure under [Rättegångsbalken](https://www.riksdagen.se/) follows the *familjerättsligt mål* track. **Mandatory cooperation talks** (*samarbetssamtal* under FB 5:3) at the *socialtjänst* (social services) precede contested litigation in most cases. *Familjerätten* (Family Law Office at the municipal social services) issues *upplysningar* (information statements) and *vårdnadsutredningar* (custody investigations) — these reports are the principal evidence base in contested matters.
+
+**Contact enforcement — FB 21 ch.** Where a court-ordered *umgänge* is being ignored, [FB kap. 21](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381/) provides for *verkställighet*: escalating *vite* (fines), *hämtning* (police-supported handover in extremis), and ultimately *byte av boende* (change of residence). Swedish courts have been increasingly willing to use *byte av boende* where one parent's contact-obstruction is sustained and serious.
+
+**The PA-construct question.** The [Socialstyrelsen](https://www.socialstyrelsen.se/) and the [Sveriges psykologförbund](https://www.psykologforbundet.se/) have not endorsed *Parental Alienation Syndrome* as a diagnostic category. Swedish *socialtjänst* and family-court practice has consistently applied a behaviour-based analysis (*umgängessabotage* — contact sabotage) rather than syndrome labelling. The 2022 [Barnafrid](https://liu.se/en/research/barnafrid) National Centre report reinforced this methodological caution.
+
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Sweden is a Hague 1980 contracting state and EU Member State. The Central Authority operates through the *Utrikesdepartementet* (Ministry of Foreign Affairs). Cross-border cases engage Brussels IIb.
+
+**Get local counsel.** *Advokat* (member of *Sveriges advokatsamfund*) is recommended for any contested family-court matter. The [Swedish Bar Association](https://www.advokatsamfundet.se/) maintains a family-law specialist directory. *Rättsskydd* (legal-expense insurance, typically included in home insurance) and *rättshjälp* (state legal aid, means-tested) cover most costs. *Familjerätten* at the municipal level provides free mediation support.
+
+## FAQ — Parental alienation in Sweden (Sverige)
+
+### Is parental alienation illegal in Sweden (Sverige)?
+
+In Sweden (Sverige) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Sweden (Sverige)?
+
+The primary statutory basis in Sweden (Sverige) is Föräldrabalken (FB) ch. 6 — Children and Parents Code, Chapter 6 — Custody, Residence and Contact (Vårdnad, Boende och Umgänge). Authoritative text: <https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381>.
+
+### What can a parent do if their child is being withheld from them in Sweden (Sverige)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Sweden (Sverige)'s best-interests-of-the-child framework (Föräldrabalken (FB) ch. 6) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+* [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+* [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+* [UN Treaty Collection — international treaties](https://treaties.un.org/)
+* [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+* [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+* [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+---
+
+## Related on antialienate.com
+
+* [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+* [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+* [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+* [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+* [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
