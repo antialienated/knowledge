@@ -1,0 +1,119 @@
+---
+title: "Baker & Fine 2014 — Co-Parenting with an Alienating Parent: The 17-Strategy Framework"
+section: research
+summary: TL;DR Dr Amy J. L. Baker City University of New York and Paul R. Fine clinical psychologist co-authored the 2014 practitioner guide that became the standard reference for targeted parents and their at
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/research/baker-fine-2014-co-parenting-with-alienating-parent"
+---
+# [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Fine 2014 — Co-Parenting with an Alienating Parent: The 17-Strategy Framework
+
+## TL;DR
+
+Dr Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (City University of New York) and Paul R. Fine (clinical psychologist) co-authored the 2014 practitioner guide that became the standard reference for targeted parents and their attorneys. The book codified [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) prior empirical research ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 adult-outcomes study of formerly alienated children) into 17 actionable strategies. The framework has been cited in custody evaluations across the US, Canada, UK, and Australia, and forms the operational backbone of the modern "long-game" approach to PA cases.
+
+## Empirical Foundation
+
+The 17 strategies emerged from [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) earlier qualitative work — particularly her interviews with 40 adults who had been alienated as children and later reconciled (or attempted to) with the targeted parent. From those interviews, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) identified what the targeted parents had done that the adult children later recognized as having mattered, and what backfired.
+
+Key empirical findings underlying the framework:
+- Targeted parents who never disparaged the alienating parent in front of the child were far more often reconciled with later
+- "Staying findable" (same address, phone, email over years) was the single most cited factor in adult reconciliation accounts
+- Sporadic dramatic confrontations correlated with worse long-term outcomes than calm, consistent presence
+- Adult children retained semantic memory of positive moments even when actively rejecting in childhood — the moments mattered
+
+## The 17 Strategies (summary)
+
+The full framework is detailed in the book, but the headline strategies organize as:
+
+### Showing Up (Strategies 1-5)
+
+1. Always respond positively to the child's attempts to connect
+2. Never disparage the other parent — in any channel, ever
+3. Keep your home a calm, low-conflict refuge
+4. Maintain physical findability (same address, phone, email)
+5. Send acknowledgments (birthdays, holidays) even when returned unopened
+
+### Managing the Court Process (Strategies 6-10)
+
+1. Document everything chronologically — pattern beats moments
+2. Use written communication for ALL coordination with the other parent
+3. Stay calm in front of evaluators and court personnel
+4. Never weaponize the child for information about the other household
+5. Frame the case around the child's needs, not your grievances
+
+### Long-Game Discipline (Strategies 11-14)
+
+1. Protect your physical and mental health — you must still be standing in 5-10 years
+2. Build a small trusted circle who knows the full picture
+3. Maintain a life outside the case
+4. Accept that you cannot control the timeline — only your presence in it
+
+### When Reunification Happens (Strategies 15-17)
+
+1. Don't demand explanation or apology — gratitude over justice
+2. Let the child set the pace
+3. Address the past only if and when the child raises it
+
+## Clinical Application
+
+[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine has become a standard reference for:
+- Custody evaluators (cited in evaluation reports as the operational framework for assessing PA dynamics)
+- Reunification therapists (used as the practical guide for targeted-parent coaching)
+- Family-law attorneys (cited in submissions to courts as the basis for targeted-parent conduct expectations)
+- Court-appointed parenting coordinators
+
+## Comparative Note
+
+The [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies sit alongside:
+- **Bernet's 5 essential criteria** (2008) — diagnostic gatekeeper
+- **Friedlander-Walters' 4-category typology** (2010) — severity stratification
+- **[Warshak's](https://warshak.com/family-bridges/) resist-refuse continuum** (2015) — clinical conceptualization
+- **Harman's family-violence framework** (2018) — paradigm shift to abuse model
+
+Where Bernet diagnoses and Harman conceptualizes, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine **operationalizes** — turning the framework into something a targeted parent can DO this week.
+
+## Citing Posts
+
+| Post | URL |
+| --- | --- |
+| 20 PA Strategies | <https://antialienate.com/blog/20-parental-alienation-strategies> |
+| Self-Care for Targeted Parents | <https://antialienate.com/blog/self-care-for-targeted-parents-beyond-surviving> |
+| Protecting Mental Health | <https://antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent> |
+| Co-Parenting with an Alienator | <https://antialienate.com/blog/co-parenting-with-an-alienator-survival-strategies> |
+| Reunification Journey | <https://antialienate.com/blog/the-reunification-journey-rebuilding-after-alienation> |
+
+## Sources
+
+* [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Fine, P. R. (2014). *Co-Parenting with a Toxic Ex*. New Harbinger Publications. ISBN 9781608829583
+* [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind*. W. W. Norton.
+* [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. Selected published papers: <https://pubmed.ncbi.nlm.nih.gov/?term=Amy+Baker+parental+alienation>
+* Publisher page: <https://www.newharbinger.com/9781608829583/co-parenting-with-a-toxic-ex/>
+
+---
+
+By Alan Markson. Licensed under CC BY 4.0.
+
+Disclaimer: This summary is educational, not therapeutic or legal advice. The [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+* [Google Scholar](https://scholar.google.com/)
+* [APA PsycNet](https://psycnet.apa.org/)
+* [Open Science Framework](https://osf.io/)
+* [Cochrane Library](https://www.cochranelibrary.com/)
+
+---
+
+## Related on antialienate.com
+
+* [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
+* [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
+* [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
+* [Co Parenting With An Alienator Survival Strategies](https://www.antialienate.com/blog/co-parenting-with-an-alienator-survival-strategies)
+* [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
