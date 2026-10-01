@@ -14,7 +14,7 @@ jurisdiction_code: BE
 
 **ECLI:** `ECLI:BE:CASS:2023:ARR.20230816.VAC.2`  
 **Neutral citation:** Cass. 16 août 2023, RG P.23.0945.F  
-**Court:** [Cour de cassation](https://www.courdecassation.fr/) de Belgique / Hof van Cassatie van België — chambre des vacations (VAC), on a pourvoi against the arrêt of the cour d'appel de Liège, chambre de la jeunesse, of 5 June 2023  
+**Court:** [Cour de cassation](https://www.cass.be/) de Belgique / Hof van Cassatie van België — chambre des vacations (VAC), on a pourvoi against the arrêt of the cour d'appel de Liège, chambre de la jeunesse, of 5 June 2023  
 **Decided:** 2023-08-16  
 **Panel:** Erwin Francis (conseiller faisant fonction de président) / Bart Wylleman / Eric de Formanoir (rapporteur) / François Stévenart Meeûs / Sven Mosselmans, conseillers — avocat général Bart De Smet — greffier Tatiana Fenaux  
 
@@ -95,11 +95,11 @@ Pourvoi rejeté; frais (42,90 EUR) à charge de l'État. The arrêt of the cour 
 ## Comparative jurisprudence
 
 - **Cass. 28 avril 2010, RG P.10.0409.F, ECLI:BE:CASS:2010:ARR.20100428.2, Pas. 2010, n° 292** (BE) — Precedent cited in the JUPORTAL fiche of the 2023 arrêt on the measure of temporary placement outside the child's 'milieu familial de vie' under article 38, § 3, 2°, of the abrogated decree of 4 March 1991; the 2023 arrêt carries the same restrictive reading into the 2018 Code.
-- **Cass. 6 mars 2025, RG C.24.0157.F, M. c. L., ECLI:BE:CASS:2025:ARR.20250306.1F.5** (BE) — The most recent Cour de cassation arrêt located on JUPORTAL concerning non-execution of family-court residence (hébergement) decisions under article 387ter of the ancien [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) — the civil-law remedy route for contact frustration, as opposed to the youth-protection route closed by the 2023 arrêt. Only its metadata (rôle, ECLI, date, chamber, parties' initials) and the presence of 'hébergement' and '387ter' in its text were verified for this entry; its reasoning was not reviewed and it does not appear among JUPORTAL results for the phrase 'aliénation parentale'.
+- **Cass. 6 mars 2025, RG C.24.0157.F, M. c. L., ECLI:BE:CASS:2025:ARR.20250306.1F.5** (BE) — The most recent Cour de cassation arrêt located on JUPORTAL concerning non-execution of family-court residence (hébergement) decisions under article 387ter of the ancien Code civil — the civil-law remedy route for contact frustration, as opposed to the youth-protection route closed by the 2023 arrêt. Only its metadata (rôle, ECLI, date, chamber, parties' initials) and the presence of 'hébergement' and '387ter' in its text were verified for this entry; its reasoning was not reviewed and it does not appear among JUPORTAL results for the phrase 'aliénation parentale'.
 - **Hof van beroep Gent, 24 februari 2026, 2025/FA/628, ECLI:BE:HBGNT:2026:ARR.20260224.1** (BE) — Most recent Belgian appellate decision on JUPORTAL using the Dutch term 'oudervervreemding' (2026): in a [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) return case, the Gent court found it not proven that the child's objection to return resulted from 'externe conditionering en van oudervervreemding of emotionele of andere beïnvloeding' and gave weight to the child's views. Belgian courts thus treat the construct as a factual allegation to be proven, not as a presumption.
-- **[Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza n. 9691 del 24 marzo 2022** (IT) — [`cassazione-9691-2022-italy`](./cassazione-9691-2022-italy.md) — Italian apex critique of alienation-based removals of a child from the resident mother; the Belgian 2023 arrêt reaches a comparable practical outcome (annulment of the residence transfer) but on grounds of statutory competence rather than scientific validity.
-- **[BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss 1 BvR 1076/23 vom 17.11.2023** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — Decided three months after the Belgian arrêt; German constitutional review of an alienation-based custody decision on fundamental-rights grounds — the doctrinal counterpoint to Belgium's competence-based approach within the EU6 group.
-- **Hoge Raad 15 februari 2005, ECLI:NL:HR:2005:AR8250** (NL) — [`hoge-raad-2005-ar8250-netherlands`](./hoge-raad-2005-ar8250-netherlands.md) — Neighbouring Dutch-language apex treatment of contact frustration through the criminal law; together with the Belgian arrêt illustrates how the Benelux apex courts locate alienation-type disputes in specific statutory channels rather than in a clinical construct.
+- **[Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza n. 9691 del 24 marzo 2022** (IT) — [`cassazione-9691-2022-italy`](/knowledge/case-studies/cassazione-9691-2022-italy) — Italian apex critique of alienation-based removals of a child from the resident mother; the Belgian 2023 arrêt reaches a comparable practical outcome (annulment of the residence transfer) but on grounds of statutory competence rather than scientific validity.
+- **[BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss 1 BvR 1076/23 vom 17.11.2023** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](/knowledge/case-studies/bverfg-1-bvr-1076-23-germany-2023) — Decided three months after the Belgian arrêt; German constitutional review of an alienation-based custody decision on fundamental-rights grounds — the doctrinal counterpoint to Belgium's competence-based approach within the EU6 group.
+- **Hoge Raad 15 februari 2005, ECLI:NL:HR:2005:AR8250** (NL) — [`hoge-raad-2005-ar8250-netherlands`](/knowledge/case-studies/hoge-raad-2005-ar8250-netherlands) — Neighbouring Dutch-language apex treatment of contact frustration through the criminal law; together with the Belgian arrêt illustrates how the Benelux apex courts locate alienation-type disputes in specific statutory channels rather than in a clinical construct.
 
 ## Subsequent reception
 
@@ -138,6 +138,13 @@ Pourvoi rejeté; frais (42,90 EUR) à charge de l'État. The arrêt of the cour 
 
 *Author: Alan Markson.*
 
+## Related on AntiAlienate
+
+- [Belgium — jurisdiction guide](/knowledge/jurisdictions/belgium)
+- [All Belgium case law and statutes](/case-law/jurisdiction/belgium)
+- [Family Court Act 2013](/case-law/belgium/family-court-act-2013)
+
 ---
 
-*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+*Licensed CC BY 4.0 — [AntiAlienate Case Law](https://antialienate.com/case-law/browse). Free to reuse with attribution; also available as [open data](https://antialienate.com/open-data).*
