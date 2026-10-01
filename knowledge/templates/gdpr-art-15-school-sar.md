@@ -1,0 +1,103 @@
+---
+title: GDPR Article 15 Subject Access Request — School
+section: templates
+summary: A formal letter requesting every personal-data record the school holds about your child. Free, must be answered within 30 days, available to any parent with parental responsibility under both EU GDPR 
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/templates/gdpr-art-15-school-sar"
+---
+# GDPR Article 15 Subject Access Request — School
+
+A formal letter requesting every personal-data record the school holds about your child. Free, must be answered within 30 days, available to any parent with parental responsibility under both EU GDPR and UK GDPR.
+
+This is one of the most under-used evidence-gathering tools in PA cases. Schools often hold safeguarding notes, emails between teachers about the child, attendance records, parents-evening lists, and emergency-contact updates that contradict the alienating parent's narrative.
+
+## Template letter
+
+> [Your full name]
+> [Your address]
+> [Date]
+>
+> The Data Protection Officer
+> [School name + address]
+>
+> **Subject Access Request — [child's full name], DOB [date]**
+>
+> Dear Data Protection Officer,
+>
+> I am writing to make a Subject Access Request under Article 15 of the [EU GDPR / UK GDPR] and the Data Protection Act 2018 for personal data concerning my child, [child's full name], date of birth [DOB], currently enrolled at [school name] in [year group / class].
+>
+> I am the child's [father / mother] and hold parental responsibility under [s. 2(1) of the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) / equivalent in your jurisdiction]. A copy of [the birth certificate / court order confirming parental responsibility] is enclosed.
+>
+> Please provide, in any reasonably accessible format:
+>
+> 1. All personal data the school currently holds about my child, including:
+> 2. attendance records
+> 3. emergency-contact records (including any changes made and who authorised them)
+> 4. safeguarding logs and any referrals to children's social care
+> 5. communications (emails, written notes, internal memos) between school staff that mention my child
+> 6. parents-evening attendance records
+> 7. records of who has been authorised to collect my child
+> 8. any incident reports
+> 9. photographs and video where my child is identifiable
+> 10. Information about any third parties to whom my child's personal data has been disclosed.
+> 11. Information about how long the school retains each category of data.
+>
+> I understand that under Article 15, the school must respond within one calendar month of receiving this request, without charge.
+>
+> Please send the response to me at the address above. If you require any clarification, please contact me at [email] / [phone].
+>
+> Yours sincerely,
+>
+> [Signature]
+> [Printed name]
+>
+> *Enclosures: [copy of birth certificate / court order]*
+
+## After you receive the response
+
+Compare what the school produces to what you were told (or not told) by the other parent and the school itself. Specific things to flag:
+
+* Emergency-contact list that omits you when it shouldn't.
+* Photo / event consent forms signed without your knowledge.
+* Safeguarding referrals you were never informed of.
+* Internal emails referencing instructions to limit your contact.
+* Attendance gaps inconsistent with the other parent's explanations.
+
+Save the response. Cross-reference into your [contact log](../contact-log-spreadsheet/). Add the source reference to your case file.
+
+## Related
+
+* [UK GDPR Article 15 — vocabulary card](../../open-source/infographics/uk-gdpr-rights.png)
+* [GDPR Art 15 — tactic card](../../open-source/infographics/gdpr-art-15-school.png)
+* [Contact log spreadsheet](../contact-log-spreadsheet/)
+
+---
+
+**Disclaimer.** This is a starter template, not legal advice. Adapt to your jurisdiction and case facts. Have a licensed practitioner review before filing. Statutes and procedural rules vary and update — verify against primary source.
+
+— [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+* [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+* [AFCC sample forms + guides](https://www.afccnet.org/Resource-Center/)
+* [US Courts forms](https://www.uscourts.gov/forms-rules/forms)
+* [UK Ministry of Justice forms](https://www.gov.uk/government/collections/family-court-forms)
+
+---
+
+## Related on antialienate.com
+
+* [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+* [Is Alienation The New Scarlet Letter](https://www.antialienate.com/blog/is-alienation-the-new-scarlet-letter)
+* [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+* [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+* [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
