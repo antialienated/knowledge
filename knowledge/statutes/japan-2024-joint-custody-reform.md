@@ -1,0 +1,159 @@
+---
+title: Japan — 2024 Joint Parental Authority Amendment (共同親権)
+section: statutes
+summary: "✅ Status update 2026-08-01 : the reform is now in force. Act No. 33 of 2024, amending the Civil Code 民法 , was passed by the National Diet on 17 May 2024 and entered into force on 1 April 2026 . Japane"
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/statutes/japan-2024-joint-custody-reform"
+---
+# Japan — 2024 Joint Parental Authority Amendment (共同親権)
+
+> **✅ Status update (2026-08-01): the reform is now in force.** Act No. 33 of 2024, amending the Civil Code (民法), was passed by the National Diet on 17 May 2024 and **entered into force on 1 April 2026**. Japanese family courts have been operating under the joint-parental-authority (kyodo shinken, 共同親権) framework since that date. First-instance implementation cases are now working through the courts; early-implementation observations will be added to this entry as they become citable from primary sources.
+>
+> **TL;DR.** Japan's 2024 Civil Code amendment **introduced joint parental authority (kyodo shinken, 共同親権) for the first time in Japan's modern history** — ending the sole-custody-only regime that had governed since the 1947 Civil Code. The reform entered into force on **1 April 2026** and represents one of the most significant family-law shifts in any major jurisdiction in the past 40 years. Critical context for cross-border PA cases involving Japanese parents.
+
+**Maintained by Alan Markson · Last reviewed:** 2026-08-01 · **License:** [CC BY 4.0](../../LICENSE)
+
+---
+
+## Citation
+
+> Act No. 33 of 2024 (令和6年法律第33号) — Amendment to the Civil Code (民法) introducing joint parental authority provisions. Passed by the National Diet on 17 May 2024; entered into force 1 April 2026. Ministry of Justice guidance: <https://www.moj.go.jp/MINJI/minji07_00357.html>
+
+## What changed
+
+### Before 2024 (1947-2024 regime)
+
+* Japanese family law allowed **only sole custody** post-divorce
+* The custodial parent had effectively absolute authority
+* The non-custodial parent had **no enforceable contact rights** in many configurations
+* Japan was the **only G7 nation** without joint custody framework
+* Estimated 500,000+ Japanese non-custodial parents had effectively zero contact with their children
+* Japan repeatedly criticized at ECHR + UN CRC committee level
+
+### After 2024 reform, in force from 1 April 2026
+
+* **Joint parental authority** is now available — though not automatic
+* Parents can agree on joint custody; the court can also order it, including over one parent's objection where the child's welfare so requires
+* Specific statutory provisions for the ongoing decision-making framework between separated parents
+* Enforcement mechanisms for contact orders are strengthened
+* Hague Convention compliance (Japan ratified 2014) becomes more workable
+* Documented domestic-violence and child-abuse cases retain sole-custody pathways (carve-outs)
+
+### Since commencement (1 April 2026)
+
+* Japanese family courts have been operating under the joint-authority framework since 1 April 2026
+* First-instance implementation cases are working through the courts; formal appellate guidance on the new provisions is not yet available in reported form
+* The Ministry of Justice has published implementation guidance for practitioners and prospective parties (<https://www.moj.go.jp/MINJI/minji07_00357.html>)
+* This entry will be updated with citable appellate authority as reported decisions accumulate
+
+### Limits of the reform
+
+* Sole custody remains an option (it is not mandatory joint)
+* The 2024 amendment does not retroactively apply to existing sole-custody orders — pre-2026-04-01 orders remain in force under their original terms
+* Family courts retain wide discretion on when joint authority is appropriate
+* The DV/abuse carve-outs preserve sole-custody outcomes where those risks are found
+
+## Why this matters for cross-border PA cases
+
+### Pre-2024 problem
+
+US, EU, AU parents whose children ended up in Japan faced **structural impossibility** of meaningful contact:
+
+* Japanese courts would award sole custody to the Japanese parent
+* Hague returns from Japan had high refusal rate (Article 13(b) "grave risk" defense)
+* The non-Japanese parent had no enforceable mechanism inside Japan
+* Significant diplomatic friction (US State Department repeatedly flagged Japan as non-cooperative)
+
+### Post-2024 framework
+
+The reform opens the door to:
+
+* Joint custody arrangements in cross-border Japanese cases
+* Better Hague compliance via the new contact-enforcement provisions
+* Reduced "grave risk" defense applicability (the receiving framework is now stronger)
+* Diplomatic normalization of US-Japan + EU-Japan parental-rights coordination
+
+## Practical use
+
+For cross-border PA cases involving Japan:
+
+> *Per the 2024 Japan Civil Code amendment introducing joint parental authority (effective 2026), the receiving framework in Japan is materially different from the pre-2024 sole-custody-only regime. The Court is respectfully asked to consider the strengthened Japanese contact-enforcement framework when evaluating [Hague return request / cross-border custody motion / contact-enforcement strategy]. The historical Japanese custody framework that grounded prior reluctance on cross-border return is being progressively replaced.*
+
+For US parents whose children are in Japan, see also [posts/66-usa-parent-child-in-europe-playbook.md](../../posts/66-usa-parent-child-in-europe-playbook/) — many of the same layers (Hague + State Dept + consular) apply.
+
+## The international context
+
+Japan's reform is part of a broader 2010s-2020s pattern of jurisdictions strengthening anti-PA frameworks:
+
+| Year | Jurisdiction | Reform |
+| --- | --- | --- |
+| 2010 | Brazil | Lei 12.318 — first national statutory PA codification |
+| 2021 | Spain | LO 8/2021 — violencia vicaria statutorily named |
+| 2024 | Australia | Family Law Act amendments (s60CC restructured) |
+| **2024** | **Japan** | **Joint parental authority introduced** |
+
+Together: an unmistakable global trend toward stronger anti-PA + pro-both-parent-contact frameworks.
+
+## Critiques + ongoing debate
+
+The Japanese reform faces ongoing criticism + support:
+
+* **Critics** (Japan domestic violence advocates): worry the reform forces continued contact in abusive situations
+* **Supporters** (international father-rights organizations): see it as the first step toward addressing 500,000+ alienated Japanese parents
+* **Practical concerns**: implementation through 2026+ will determine whether the reform produces real-world change or remains paper-only
+* **DV exception provisions**: the reform includes carve-outs for documented domestic violence cases
+
+## Citing posts
+
+| # | Post |
+| --- | --- |
+| 18 | <https://www.antialienate.com/blog/pa-cross-cultural> |
+| 26 | <https://www.antialienate.com/blog/international-parental-kidnapping> |
+| 58 | <https://www.antialienate.com/blog/international-custody-battles> |
+| 66 | <https://www.antialienate.com/blog/usa-parent-child-in-europe-playbook> |
+
+## Primary source
+
+* Ministry of Justice Japan (法務省): <https://www.moj.go.jp>
+* Japan National Diet legislative records: amendment passed 17 May 2024
+* US State Department Japan country reports
+
+## Related entries
+
+* [statutes/brazil-lei-12318-2010.md](../brazil-lei-12318-2010/) — first national statutory PA codification
+* [case-law/australia/family-law-act-s60cc.md](../../case-law/australia/family-law-act-s60cc/) — Australian framework
+* [case-law/united-states/abbott-v-abbott-2010.md](../../case-law/united-states/abbott-v-abbott-2010/) — US Hague ne exeat
+* [posts/18-pa-cross-cultural.md](../../posts/18-pa-cross-cultural/)
+* [posts/58-international-custody-battles.md](../../posts/58-international-custody-battles/)
+
+## Disclaimer
+
+Wiki entry, not legal advice. Cross-border Japan-involved family matters require specialist counsel in both jurisdictions.
+
+---
+
+**CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+* [UK Legislation](https://www.legislation.gov.uk/)
+* [US Code (Cornell LII)](https://www.law.cornell.edu/uscode/text)
+* [EUR-Lex — EU legislation](https://eur-lex.europa.eu/)
+* [Légifrance — French legislation](https://www.legifrance.gouv.fr/)
+* [Gesetze im Internet — German legislation](https://www.gesetze-im-internet.de/)
+* [Bundesgesetzblatt (Austria)](https://www.ris.bka.gv.at/)
+
+---
+
+## Related on antialienate.com
+
+* [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+* [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
+* [When International Authorities Intervene Custody Dual Citizen](https://www.antialienate.com/blog/when-international-authorities-intervene-custody-dual-citizen)
+* [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+* [Custody Evaluators What To Expect Prepare](https://www.antialienate.com/blog/custody-evaluators-what-to-expect-prepare)
