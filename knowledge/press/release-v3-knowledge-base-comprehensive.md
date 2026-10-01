@@ -42,7 +42,7 @@ Material is curated by independent contributors and reviewed against [CONTRIBUTI
 
 ### Distribution channels
 
-The full repository is at [github.com/AntiAlienate/knowledge](https://github.com/AntiAlienate/knowledge). A web-based reading view is in preparation at `knowledge.antialienate.com`. Pull requests are welcomed from clinicians, lawyers, and affected parents in any jurisdiction.
+The full repository is at [github.com/AntiAlienate/knowledge](https://github.com/AntiAlienate/knowledge). The web reading view is live at [antialienate.com/knowledge](https://antialienate.com/knowledge). Pull requests are welcomed from clinicians, lawyers, and affected parents in any jurisdiction.
 
 ### About AntiAlienate.com
 
