@@ -83,9 +83,9 @@ The father married Ｂ, the daughter of the respondents, in November 2012; the c
 
 - **最高裁判所第一小法廷 平成25年3月28日決定 平成24(許)41 / 平成24(許)48 / 平成24(許)47 (間接強制 — indirect enforcement of visitation orders)** (JP) — The three Supreme Court decisions of 28 March 2013 on indirect compulsion (間接強制) of 面会交流 orders, listed on courts.go.jp alongside the 2021 decision; they are the apex authorities on enforcing contact against a refusing custodial parent, and together with the 2021 decision they mark the procedural boundaries — who may apply, and how orders are enforced — within which contact-refusal disputes are litigated in Japan.
 - **最高裁判所第一小法廷 令和2年4月16日決定 令和1(許)14 (ハーグ条約実施法117条1項の類推適用)** (JP) — Same bench, one year earlier: the Court allowed analogous application of a statute (Hague Implementation Act art. 117(1)) to vary a mediated return agreement in the child's interests. Read together, the two decisions show the Court willing to reason by analogy on remedies but not on standing under Civil Code art. 766.
-- **TEN v TEO and another appeal [2020] SGHCF 20** (SG) — [`ten-v-teo-2020-sghcf-20-singapore`](./ten-v-teo-2020-sghcf-20-singapore.md) — Asian common-law counterpart in which contact refusal and alienation were addressed on the merits with expert involvement; contrasts with the Japanese apex court's confinement of the question to statutory standing.
-- **H v W [2021] HKCA 733** (HK) — [`h-v-w-2021-hkca-733-hong-kong`](./h-v-w-2021-hkca-733-hong-kong.md) — Decided two months after the Japanese decision; Hong Kong appellate engagement with parental-alienation findings in a relocation context — part of the same 2017–2026 Asian appellate cluster.
-- **EWM (Suing as mother and next friend) v VS [2024] KEMC 82 (KLR)** (KE) — [`ewm-v-vs-2024-kemc-82-kenya`](./ewm-v-vs-2024-kemc-82-kenya.md) — Contemporaneous Global-South decision grounding contact in constitutional equal parental responsibility; illustrates the parent-centred conception of contact that the Japanese decision also adopts, there to the exclusion of grandparents.
+- **TEN v TEO and another appeal [2020] SGHCF 20** (SG) — [`ten-v-teo-2020-sghcf-20-singapore`](/knowledge/case-studies/ten-v-teo-2020-sghcf-20-singapore) — Asian common-law counterpart in which contact refusal and alienation were addressed on the merits with expert involvement; contrasts with the Japanese apex court's confinement of the question to statutory standing.
+- **H v W [2021] HKCA 733** (HK) — [`h-v-w-2021-hkca-733-hong-kong`](/knowledge/case-studies/h-v-w-2021-hkca-733-hong-kong) — Decided two months after the Japanese decision; Hong Kong appellate engagement with parental-alienation findings in a relocation context — part of the same 2017–2026 Asian appellate cluster.
+- **EWM (Suing as mother and next friend) v VS [2024] KEMC 82 (KLR)** (KE) — [`ewm-v-vs-2024-kemc-82-kenya`](/case-law/kenya/ewm-v-vs-2024-kemc-82-kenya) — Contemporaneous Global-South decision grounding contact in constitutional equal parental responsibility; illustrates the parent-centred conception of contact that the Japanese decision also adopts, there to the exclusion of grandparents.
 
 ## See also
 
@@ -115,6 +115,13 @@ The father married Ｂ, the daughter of the respondents, in November 2012; the c
 
 *Author: Alan Markson.*
 
+## Related on AntiAlienate
+
+- [Japan — jurisdiction guide](/knowledge/jurisdictions/japan)
+- [All Japan case law and statutes](/case-law/jurisdiction/japan)
+- [Japan's 2024 joint-custody reform](/knowledge/statutes/japan-2024-joint-custody-reform)
+
 ---
 
-*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+*Licensed CC BY 4.0 — [AntiAlienate Case Law](https://antialienate.com/case-law/browse). Free to reuse with attribution; also available as [open data](https://antialienate.com/open-data).*
