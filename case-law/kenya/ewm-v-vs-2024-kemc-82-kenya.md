@@ -80,8 +80,8 @@ Claim allowed in part. Joint legal custody to both parents; actual custody, care
 - **MAK v RMAA & 4 others (Petition 2 (E003) of 2022) [2023] KESC 21 (KLR)** (KE) — Supreme Court of Kenya guidelines for balancing a child's best interests against parental rights and responsibility; quoted in full at para 7 and applied here, in particular guideline 8 on preserving direct contact with both parents.
 - **H G G v Y P [2017] eKLR** (KE) — High Court statement of the tender-years principle and of the exceptional circumstances required to deny a mother custody; quoted at para 8 as the basis for preserving the mother's primary care.
 - **Sospeter Ojaamong v Lynette Amondi Otieno, Civil Appeal 176 of 2006** (KE) — Court of Appeal authority (citing Martha Olela & Another v Jackson Obiera, Civil Application No. Nairobi 16 of 1979) that custody of children of tender years goes to the mother absent special and peculiar disqualifying circumstances; quoted at para 9.
-- **T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801** (ZA) — [`tld-v-bg-2023-zagpjhc-801-south-africa`](./tld-v-bg-2023-zagpjhc-801-south-africa.md) — The other sub-Saharan African decision in this knowledge base; South African High Court engagement with parental-alienation framing at greater length and with expert evidence, against which the summary Kenyan magistrate-level use of the term can be read.
-- **Vivek Singh v Romani Singh, (2017) 3 SCC 231** (IN) — [`vivek-singh-v-romani-singh-2017-india`](./vivek-singh-v-romani-singh-2017-india.md) — Common-law apex decision in the Global South treating exclusion of a parent as harmful to the child within a best-interests framework; comparable structural reasoning (equal parental responsibility, contact as the child's entitlement) without a diagnostic PA construct.
+- **T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801** (ZA) — [`tld-v-bg-2023-zagpjhc-801-south-africa`](/knowledge/case-studies/tld-v-bg-2023-zagpjhc-801-south-africa) — The other sub-Saharan African decision in this knowledge base; South African High Court engagement with parental-alienation framing at greater length and with expert evidence, against which the summary Kenyan magistrate-level use of the term can be read.
+- **Vivek Singh v Romani Singh, (2017) 3 SCC 231** (IN) — [`vivek-singh-v-romani-singh-2017-india`](/knowledge/case-studies/vivek-singh-v-romani-singh-2017-india) — Common-law apex decision in the Global South treating exclusion of a parent as harmful to the child within a best-interests framework; comparable structural reasoning (equal parental responsibility, contact as the child's entitlement) without a diagnostic PA construct.
 
 ## See also
 
@@ -112,6 +112,13 @@ Claim allowed in part. Joint legal custody to both parents; actual custody, care
 
 *Author: Alan Markson.*
 
+## Related on AntiAlienate
+
+- [Kenya — jurisdiction guide](/knowledge/jurisdictions/kenya)
+- [All Kenya case law and statutes](/case-law/jurisdiction/kenya)
+- [Children Act 2022 — parental responsibility](/case-law/kenya/children-act-2022-parental-responsibility)
+
 ---
 
-*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+*Licensed CC BY 4.0 — [AntiAlienate Case Law](https://antialienate.com/case-law/browse). Free to reuse with attribution; also available as [open data](https://antialienate.com/open-data).*
