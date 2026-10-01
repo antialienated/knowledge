@@ -1,0 +1,40 @@
+---
+title: Tools
+section: tools
+summary: Practical tooling references for targeted parents, self-represented litigants, and practitioners. Index Free Legal Research Tools legal-research/ — curated index of free authoritative legal databases 
+last_verified: 2026-09-25
+tags: []
+canonical: "https://antialienate.com/knowledge/tools"
+---
+# Tools
+
+Practical tooling references for targeted parents, self-represented litigants, and practitioners.
+
+## Index
+
+* [Free Legal Research Tools](legal-research/) — curated index of free authoritative legal databases (CourtListener, [BAILII](https://www.bailii.org/), [HUDOC](https://hudoc.echr.coe.int/), [CanLII](https://www.canlii.org/), [AustLII](https://www.austlii.edu.au/), Indian Kanoon, and more).
+
+---
+
+— Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+* [AntiAlienate Knowledge Base](/knowledge/)
+* [Google Scholar](https://scholar.google.com/)
+* [BAILII](https://www.bailii.org/)
+* [Justia](https://supreme.justia.com/)
+
+---
+
+## Related on antialienate.com
+
+* [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
+* [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
+* [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+* [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+* [Weaponized Therapy Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-parental-alienation)
