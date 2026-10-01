@@ -51,7 +51,7 @@ This folder contains pre-launch press materials for the AntiAlienate knowledge-b
 * Demo video or screencast — optional but high-leverage
 * Translation of releases into FR/DE/NL/ES — defer to post-launch
 * Founder bio — to add when Adam confirms attribution preferences
-* `knowledge.antialienate.com` URL — currently shows as "in preparation"; will be live once Adam picks website path + sets DNS
+* Knowledge base live at antialienate.com/knowledge (old subdomain 301-redirects here)
 
 ## License
 
